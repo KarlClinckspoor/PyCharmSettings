@@ -6,12 +6,12 @@
       <file name="/Dummy.txt" timestamp="1582658408665">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Dropbox/Python/LABORE/helper/crop_contin_gui.py" timestamp="1582660409966">
-        <mark key="'" line="83" column="0" />
-        <mark key="[" line="59" column="15" />
-        <mark key="]" line="59" column="15" />
-        <mark key="^" line="13" column="10" />
-        <mark key="." line="59" column="15" />
+      <file name="D:/Dropbox/Python/LABORE/helper/crop_contin_gui.py" timestamp="1582661273113">
+        <mark key="'" line="100" column="0" />
+        <mark key="[" line="88" column="8" />
+        <mark key="]" line="88" column="8" />
+        <mark key="." line="88" column="8" />
+        <mark key="^" line="88" column="7" />
       </file>
       <file name="$USER_HOME$/Desktop/RILT/MWE.py" timestamp="1582656842406">
         <mark key="[" line="77" column="114" />
@@ -19,9 +19,9 @@
         <mark key="." line="78" column="0" />
         <mark key="^" line="78" column="0" />
       </file>
-      <file name="D:/Dropbox/Python/LABORE/helper/crop_contin.py" timestamp="1582659699201">
-        <mark key="[" line="143" column="0" />
-        <mark key="]" line="148" column="28" />
+      <file name="D:/Dropbox/Python/LABORE/helper/crop_contin.py" timestamp="1582661269685">
+        <mark key="[" line="163" column="0" />
+        <mark key="]" line="162" column="77" />
       </file>
       <file name="$USER_HOME$/Desktop/RILT/RILT.py" timestamp="1581463942509">
         <mark key="'" line="109" column="14" />
@@ -61,43 +61,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>()</text>
       </register>
       <register name="/" type="4">
         <text>sc</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgbGluZTIuc2V0X2RhdGEoZGZbInQiXSwgZGZbIkkiXSkKICAgICAgICAgICAgbm9ubG9jYWwgaW5kZXhlc19jaG9zZW4KICAgICAgICAgICAgaW5kZXhlc19jaG9zZW4gPSBbMCwgbGVuKGRmKSAtIDFdCiAgICAgICAgICAgIGF4Mi5zZXRfeGxpbShheDEuZ2V0X3hsaW0oKSkKICAgICAgICAgICAgYXgyLnNldF95bGltKGF4MS5nZXRfeWxpbSgpKQogICAgICAgICAgICBmaWcuY2FudmFzLmRyYXcoKQ==</text>
+        <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBQeVF0NSBpbXBvcnQgUXRDb3JlLCBRdFdpZGdldHMKc3VwZXIoTWFpbldpbmRvdywgc2VsZikuc2V0X2xheW91dChncmlkKQo=</text>
+        <text encoding="base64">ICAgICAgICBRTWFpbldpbmRvdy5fX2luaXRfXyhzZWxmLCBwYXJlbnQpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcihNYWluV2luZG93LCBzZWxmKS5zZXRfbGF5b3V0KGdyaWQpCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">YXBwID0gUXRXaWRnZXRzLlFBcHBsaWNhdGlvbihzeXMuYXJndikKdyA9IE1haW5XaW5kb3coKQphcHAuZXhlY18oKQo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBub25sb2NhbCBpbmRleGVzX2Nob3Nlbgo=</text>
+        <text encoding="base64">ICAgICAgICB2Ym94LmFkZFdpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGluZGV4ZXNfY2hvc2VuID0gWzAsIDBdCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGhib3guYWRkV2lkZ2V0KHNlbGYuYnV0dG9uX3Jlc2V0KQogICAgICAgICMgaGJveC5zZXRBbGlnbm1lbnQoc2VsZi5idXR0b25fcmVzZXQuUXQuQWxpZ25WQ2VudGVyKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmwyID0gbDIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBidXR0b25fbW9yZV9yaWdodCA9IFF0V2lkZ2V0cy5RUHVzaEJ1dHRvbigncj4nLCBzZWxmKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNjLm1vdmUoMTAwLCA4MCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzYy5heGVzLnBsb3QoWzAsMSwyLDMsNF0sIFsxMCwxLDIwLDMsNDBdKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
     </registers>
     <search>
