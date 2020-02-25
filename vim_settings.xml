@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1582657113839">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/RILT/MWE.py" timestamp="1582656842406">
         <mark key="[" line="77" column="114" />
         <mark key="]" line="78" column="0" />
@@ -15,6 +18,13 @@
         <mark key="]" line="380" column="17" />
         <mark key="." line="380" column="17" />
         <mark key="^" line="162" column="14" />
+      </file>
+      <file name="$USER_HOME$/Desktop/LABORE/helper/crop_contin_gui.py" timestamp="1582657069568">
+        <mark key="'" line="34" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="34" column="10" />
+        <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -31,33 +41,37 @@
       <jump line="93" column="25" filename="$USER_HOME$/Desktop/RILT/RILT.py" />
       <jump line="108" column="14" filename="$USER_HOME$/Desktop/RILT/RILT.py" />
       <jump line="109" column="14" filename="$USER_HOME$/Desktop/RILT/RILT.py" />
+      <jump line="35" column="0" filename="$USER_HOME$/Desktop/LABORE/helper/crop_contin_gui.py" />
     </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBSID0gbnAuemVyb3MoKGxlbihnMCkgLSAyLCBsZW4oZzApKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFIgPSBucC5vbmVzKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I3BsdC5wbG90KHMwLCBnMCkKI3BsdC5zaG93KCkK</text>
+        <text encoding="base64">ICAgIFIgPSBucC5vbmVzKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YW1wbGl0dWRlID0gbnAuemVyb3ModC5zaGFwZSkK</text>
+        <text encoding="base64">I3BsdC5wbG90KHMwLCBnMCkKI3BsdC5zaG93KCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YW1wbGl0dWRlID0gYW1wbGl0dWRlIC8gYW1wbGl0dWRlLm1heCgpCg==</text>
+        <text encoding="base64">YW1wbGl0dWRlID0gbnAuemVyb3ModC5zaGFwZSkK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">YW1wbGl0dWRlID0gYW1wbGl0dWRlIC8gYW1wbGl0dWRlLm1heCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YW1wbGl0dWRlID0gYW1wbGl0dWRlIC8gYW1wbGl0dWRlLm1heCgpCg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Zm9yIGFtcGwsIHQyIGluIHppcChnMCwgczApOgogICAgYW1wbGl0dWRlICs9IGFtcGwgKiBucC5leHAoLXQvdDIpCg==</text>
       </register>
       <register name="-" type="4">
