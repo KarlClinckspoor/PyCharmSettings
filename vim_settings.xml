@@ -3,14 +3,25 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1582657113839">
+      <file name="/Dummy.txt" timestamp="1582658408665">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Dropbox/Python/LABORE/helper/crop_contin_gui.py" timestamp="1582660409966">
+        <mark key="'" line="83" column="0" />
+        <mark key="[" line="59" column="15" />
+        <mark key="]" line="59" column="15" />
+        <mark key="^" line="13" column="10" />
+        <mark key="." line="59" column="15" />
       </file>
       <file name="$USER_HOME$/Desktop/RILT/MWE.py" timestamp="1582656842406">
         <mark key="[" line="77" column="114" />
         <mark key="]" line="78" column="0" />
         <mark key="." line="78" column="0" />
         <mark key="^" line="78" column="0" />
+      </file>
+      <file name="D:/Dropbox/Python/LABORE/helper/crop_contin.py" timestamp="1582659699201">
+        <mark key="[" line="143" column="0" />
+        <mark key="]" line="148" column="28" />
       </file>
       <file name="$USER_HOME$/Desktop/RILT/RILT.py" timestamp="1581463942509">
         <mark key="'" line="109" column="14" />
@@ -42,49 +53,57 @@
       <jump line="108" column="14" filename="$USER_HOME$/Desktop/RILT/RILT.py" />
       <jump line="109" column="14" filename="$USER_HOME$/Desktop/RILT/RILT.py" />
       <jump line="35" column="0" filename="$USER_HOME$/Desktop/LABORE/helper/crop_contin_gui.py" />
+      <jump line="35" column="13" filename="D:/Dropbox/Python/LABORE/helper/crop_contin_gui.py" />
+      <jump line="36" column="23" filename="D:/Dropbox/Python/LABORE/helper/crop_contin_gui.py" />
+      <jump line="38" column="25" filename="D:/Dropbox/Python/LABORE/helper/crop_contin_gui.py" />
+      <jump line="77" column="3" filename="D:/Dropbox/Python/LABORE/helper/crop_contin_gui.py" />
+      <jump line="80" column="0" filename="D:/Dropbox/Python/LABORE/helper/crop_contin_gui.py" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBSID0gbnAuemVyb3MoKGxlbihnMCkgLSAyLCBsZW4oZzApKSkK</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIFIgPSBucC5vbmVzKCkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">I3BsdC5wbG90KHMwLCBnMCkKI3BsdC5zaG93KCkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">YW1wbGl0dWRlID0gbnAuemVyb3ModC5zaGFwZSkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">YW1wbGl0dWRlID0gYW1wbGl0dWRlIC8gYW1wbGl0dWRlLm1heCgpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">YW1wbGl0dWRlID0gYW1wbGl0dWRlIC8gYW1wbGl0dWRlLm1heCgpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Zm9yIGFtcGwsIHQyIGluIHppcChnMCwgczApOgogICAgYW1wbGl0dWRlICs9IGFtcGwgKiBucC5leHAoLXQvdDIpCg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>msd</text>
+        <text>sc</text>
+      </register>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgbGluZTIuc2V0X2RhdGEoZGZbInQiXSwgZGZbIkkiXSkKICAgICAgICAgICAgbm9ubG9jYWwgaW5kZXhlc19jaG9zZW4KICAgICAgICAgICAgaW5kZXhlc19jaG9zZW4gPSBbMCwgbGVuKGRmKSAtIDFdCiAgICAgICAgICAgIGF4Mi5zZXRfeGxpbShheDEuZ2V0X3hsaW0oKSkKICAgICAgICAgICAgYXgyLnNldF95bGltKGF4MS5nZXRfeWxpbSgpKQogICAgICAgICAgICBmaWcuY2FudmFzLmRyYXcoKQ==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ZnJvbSBQeVF0NSBpbXBvcnQgUXRDb3JlLCBRdFdpZGdldHMKc3VwZXIoTWFpbldpbmRvdywgc2VsZikuc2V0X2xheW91dChncmlkKQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBzdXBlcihNYWluV2luZG93LCBzZWxmKS5zZXRfbGF5b3V0KGdyaWQpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBub25sb2NhbCBpbmRleGVzX2Nob3Nlbgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGluZGV4ZXNfY2hvc2VuID0gWzAsIDBdCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmwyID0gbDIK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBidXR0b25fbW9yZV9yaWdodCA9IFF0V2lkZ2V0cy5RUHVzaEJ1dHRvbigncj4nLCBzZWxmKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBsbAo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBzYy5heGVzLnBsb3QoWzAsMSwyLDMsNF0sIFsxMCwxLDIwLDMsNDBdKQo=</text>
       </register>
     </registers>
     <search>
-      <last-search>msd</last-search>
+      <last-search>sc</last-search>
       <last-offset />
-      <last-pattern>msd</last-pattern>
+      <last-pattern>sc</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -92,6 +111,7 @@
       <history-search>
         <entry>R =</entry>
         <entry>msd</entry>
+        <entry>sc</entry>
       </history-search>
       <history-cmd />
       <history-expr />
