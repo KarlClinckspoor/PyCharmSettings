@@ -1,6 +1,159 @@
 <application>
   <component name="VimSettings">
-    <state version="5" enabled="true" />
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1582663888449">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="D:/Dropbox/Python/LABORE/helper/crop_contin_gui.py" timestamp="1582663764194">
+        <mark key="'" line="174" column="25" />
+        <mark key="[" line="71" column="18" />
+        <mark key="]" line="71" column="18" />
+        <mark key="." line="71" column="18" />
+        <mark key="^" line="72" column="59" />
+      </file>
+      <file name="$USER_HOME$/Desktop/RILT/MWE.py" timestamp="1582656842406">
+        <mark key="[" line="77" column="114" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
+        <mark key="^" line="78" column="0" />
+      </file>
+      <file name="D:/Dropbox/Python/LABORE/helper/crop_contin.py" timestamp="1582663412933">
+        <mark key="[" line="202" column="0" />
+        <mark key="]" line="232" column="29" />
+      </file>
+      <file name="$USER_HOME$/Desktop/RILT/RILT.py" timestamp="1581463942509">
+        <mark key="'" line="109" column="14" />
+        <mark key="[" line="380" column="17" />
+        <mark key="]" line="380" column="17" />
+        <mark key="." line="380" column="17" />
+        <mark key="^" line="162" column="14" />
+      </file>
+      <file name="$USER_HOME$/Desktop/LABORE/helper/crop_contin_gui.py" timestamp="1582657069568">
+        <mark key="'" line="34" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="34" column="10" />
+        <mark key="." line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="162" column="0" filename="$USER_HOME$/Desktop/RILT/RILT.py" />
+      <jump line="31" column="0" filename="$USER_HOME$/Desktop/RILT/RILT.py" />
+      <jump line="59" column="6" filename="$USER_HOME$/Desktop/RILT/RILT.py" />
+      <jump line="60" column="32" filename="$USER_HOME$/Desktop/RILT/RILT.py" />
+      <jump line="65" column="6" filename="$USER_HOME$/Desktop/RILT/RILT.py" />
+      <jump line="75" column="10" filename="$USER_HOME$/Desktop/RILT/RILT.py" />
+      <jump line="77" column="18" filename="$USER_HOME$/Desktop/RILT/RILT.py" />
+      <jump line="78" column="24" filename="$USER_HOME$/Desktop/RILT/RILT.py" />
+      <jump line="79" column="17" filename="$USER_HOME$/Desktop/RILT/RILT.py" />
+      <jump line="88" column="22" filename="$USER_HOME$/Desktop/RILT/RILT.py" />
+      <jump line="93" column="25" filename="$USER_HOME$/Desktop/RILT/RILT.py" />
+      <jump line="108" column="14" filename="$USER_HOME$/Desktop/RILT/RILT.py" />
+      <jump line="109" column="14" filename="$USER_HOME$/Desktop/RILT/RILT.py" />
+      <jump line="35" column="0" filename="$USER_HOME$/Desktop/LABORE/helper/crop_contin_gui.py" />
+      <jump line="35" column="13" filename="D:/Dropbox/Python/LABORE/helper/crop_contin_gui.py" />
+      <jump line="36" column="23" filename="D:/Dropbox/Python/LABORE/helper/crop_contin_gui.py" />
+      <jump line="38" column="25" filename="D:/Dropbox/Python/LABORE/helper/crop_contin_gui.py" />
+      <jump line="77" column="3" filename="D:/Dropbox/Python/LABORE/helper/crop_contin_gui.py" />
+      <jump line="80" column="0" filename="D:/Dropbox/Python/LABORE/helper/crop_contin_gui.py" />
+      <jump line="107" column="25" filename="D:/Dropbox/Python/LABORE/helper/crop_contin_gui.py" />
+      <jump line="131" column="0" filename="D:/Dropbox/Python/LABORE/helper/crop_contin_gui.py" />
+      <jump line="13" column="17" filename="D:/Dropbox/Python/LABORE/helper/crop_contin_gui.py" />
+      <jump line="57" column="8" filename="D:/Dropbox/Python/LABORE/helper/crop_contin_gui.py" />
+      <jump line="60" column="14" filename="D:/Dropbox/Python/LABORE/helper/crop_contin_gui.py" />
+      <jump line="63" column="8" filename="D:/Dropbox/Python/LABORE/helper/crop_contin_gui.py" />
+      <jump line="66" column="8" filename="D:/Dropbox/Python/LABORE/helper/crop_contin_gui.py" />
+      <jump line="139" column="19" filename="D:/Dropbox/Python/LABORE/helper/crop_contin_gui.py" />
+      <jump line="130" column="8" filename="D:/Dropbox/Python/LABORE/helper/crop_contin_gui.py" />
+      <jump line="172" column="25" filename="D:/Dropbox/Python/LABORE/helper/crop_contin_gui.py" />
+      <jump line="4" column="16" filename="D:/Dropbox/Python/LABORE/helper/crop_contin_gui.py" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>Added more loading functions and their docstrings. Added some helper
+functions that will be improved upon later.</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="/" type="4">
+        <text>line2</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBkZWYgb25fbGVzc19sZWZ0KGV2ZW50KToKICAgICAgICAgICAgIiIiRnVuY3Rpb24gdGhhdCBhZGRzIG9yIHJlbW92ZXMgb25lIHBvaW50IHRvIHRoZSBzZWxlY3RlZCByYW5nZSIiIgogICAgICAgICAgICBub25sb2NhbCBpbmRleGVzX2Nob3NlbgogICAgICAgICAgICBpZiBsZW4oaW5kZXhlc19jaG9zZW4pID09IDA6CiAgICAgICAgICAgICAgICBpbmRleGVzX2Nob3NlbiA9IFswLCAxXQogICAgICAgICAgICBpbmRleGVzX2Nob3NlblswXSAtPSAxCiAgICAgICAgICAgIGlmIGluZGV4ZXNfY2hvc2VuWzBdIDwgMDoKICAgICAgICAgICAgICAgIGluZGV4ZXNfY2hvc2VuWzBdID0gMAogICAgICAgICAgICB0aGlzeCA9IGRmLnZhbHVlc1tpbmRleGVzX2Nob3NlblswXTppbmRleGVzX2Nob3NlblsxXSwgMF0KICAgICAgICAgICAgdGhpc3kgPSBkZi52YWx1ZXNbaW5kZXhlc19jaG9zZW5bMF06aW5kZXhlc19jaG9zZW5bMV0sIDFdCiAgICAgICAgICAgIGxpbmUyLnNldF9kYXRhKHRoaXN4LCB0aGlzeSkKICAgICAgICAgICAgYXgyLnNldF94bGltKHRoaXN4WzBdLCB0aGlzeFstMV0pCiAgICAgICAgICAgIGF4Mi5zZXRfeWxpbSh0aGlzeS5taW4oKSwgdGhpc3kubWF4KCkpCiAgICAgICAgICAgIGF4Mi5zZXRfdGl0bGUoZiJTdGFydDogW3tpbmRleGVzX2Nob3NlblswXX1dLiBFbmQ6IFt7aW5kZXhlc19jaG9zZW5bMV19XSIpCiAgICAgICAgICAgIGZpZy5jYW52YXMuZHJhdygpCgogICAgICAgIGRlZiBvbl9tb3JlX2xlZnQoZXZlbnQpOgogICAgICAgICAgICAiIiJGdW5jdGlvbiB0aGF0IGFkZHMgb3IgcmVtb3ZlcyBvbmUgcG9pbnQgdG8gdGhlIHNlbGVjdGVkIHJhbmdlIiIiCiAgICAgICAgICAgIG5vbmxvY2FsIGluZGV4ZXNfY2hvc2VuCiAgICAgICAgICAgIGlmIGxlbihpbmRleGVzX2Nob3NlbikgPT0gMDoKICAgICAgICAgICAgICAgIGluZGV4ZXNfY2hvc2VuID0gWzAsIDFdCiAgICAgICAgICAgIGluZGV4ZXNfY2hvc2VuWzBdICs9IDEKICAgICAgICAgICAgaWYgaW5kZXhlc19jaG9zZW5bMF0gPiBpbmRleGVzX2Nob3NlblsxXToKICAgICAgICAgICAgICAgIGluZGV4ZXNfY2hvc2VuWzBdID0gaW5kZXhlc19jaG9zZW5bMV0gLSAxCiAgICAgICAgICAgIHRoaXN4ID0gZGYudmFsdWVzW2luZGV4ZXNfY2hvc2VuWzBdOmluZGV4ZXNfY2hvc2VuWzFdLCAwXQogICAgICAgICAgICB0aGlzeSA9IGRmLnZhbHVlc1tpbmRleGVzX2Nob3NlblswXTppbmRleGVzX2Nob3NlblsxXSwgMV0KICAgICAgICAgICAgbGluZTIuc2V0X2RhdGEodGhpc3gsIHRoaXN5KQogICAgICAgICAgICBheDIuc2V0X3hsaW0odGhpc3hbMF0sIHRoaXN4Wy0xXSkKICAgICAgICAgICAgYXgyLnNldF95bGltKHRoaXN5Lm1pbigpLCB0aGlzeS5tYXgoKSkKICAgICAgICAgICAgYXgyLnNldF90aXRsZShmIlN0YXJ0OiBbe2luZGV4ZXNfY2hvc2VuWzBdfV0uIEVuZDogW3tpbmRleGVzX2Nob3NlblsxXX1dIikKICAgICAgICAgICAgZmlnLmNhbnZhcy5kcmF3KCkK</text>
+      </register>
+      <register name="1" type="4">
+        <text>Added more loading functions and their docstrings. Added some helper
+functions that will be improved upon later.</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBub25sb2NhbCBzZWxmLmluZGV4ZXNfY2hvc2VuCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBub25sb2NhbCBzZWxmLmluZGV4ZXNfY2hvc2VuCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAKICAgIEBweXF0U2xvdCgpCiAgICBkZWYgb25fbW9yZV9sZWZ0KHNlbGYpOgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBub25sb2NhbCBpbmRleGVzX2Nob3Nlbgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmJ1dHRvbl9yZXNldC5tb3ZlKDEwMCwgODApCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIG5vbmxvY2FsIGluZGV4ZXNfY2hvc2VuCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICMgdG9kbzogd2h5IGRvIEkgbmVlZCBub25sb2NhbD8K</text>
+      </register>
+      <register name=":" type="4">
+        <text encoding="base64">JzwsJz5zL2xpbmUyL3NlbGYubDIvZw==</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>line2</last-search>
+      <last-offset />
+      <last-pattern>line2</last-pattern>
+      <last-replace>self.l2</last-replace>
+      <last-substitute>line2</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>R =</entry>
+        <entry>msd</entry>
+        <entry>sc</entry>
+        <entry>reset</entry>
+        <entry>indexes_chosen</entry>
+        <entry>ax2</entry>
+        <entry>df</entry>
+        <entry>line2</entry>
+      </history-search>
+      <history-cmd>
+        <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zL3Jlc2V0L21vcmVfcmlnaHQ=</entry>
+        <entry encoding="base64">JzwsJz5zL3Jlc2V0L2xlc3NfcmlnaHQvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL3Jlc2V0L21vcmVfbGVmdC9n</entry>
+        <entry encoding="base64">JzwsJz5zL3Jlc2V0L2xlc3NfbGVmdC9n</entry>
+        <entry encoding="base64">JzwsJz5zL2luZGV4ZXNfY2hvc2VuL3NlbGYuXDE=</entry>
+        <entry encoding="base64">JzwsJz5zL2luZGV4ZXNfY2hvc2VuL3NlbGYuXDA=</entry>
+        <entry encoding="base64">JzwsJz5zL2luZGV4ZXNfY2hvc2VuL3NlbGYuXDAvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL2F4Mi9zZWxmLlwwL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL2RmL3NlbGYuXDAvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL2xpbmUyL3NlbGYubDIvZw==</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
@@ -8,7 +161,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed C</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -24,16 +177,14 @@
         <text>ctrl pressed W</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed G</text>
+        <text>ctrl pressed 2</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed F</text>
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
-    <editor />
-    <notifications>
-      <idea-join enabled="false" />
-      <idea-put enabled="false" />
-    </notifications>
   </component>
 </application>
