@@ -1,0 +1,16 @@
+<application>
+  <component name="JupyterPersistentConnectionParameters">
+    <option name="moduleParameters">
+      <map>
+        <entry key="D:/Dropbox/Python/LABORE/.idea/LABORE.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="token" value="abe424b0fd0ab6196c75f23cd079c5146271f8736e49b17c" />
+              <option name="urlString" value="http://localhost:8888/" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
