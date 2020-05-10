@@ -3,8 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/Dropbox/Zettelkasten_convert/zettlrmd_to_org_roam.py" timestamp="1589125686611">
-        <mark key="[" line="9" column="1" />
+      <file name="D:/Dropbox/Zettelkasten_convert/zettlrmd_to_org_roam.py" timestamp="1589126168883">
+        <mark key="[" line="2" column="15" />
+        <mark key="]" line="3" column="10" />
+        <mark key="^" line="3" column="10" />
+        <mark key="." line="3" column="10" />
       </file>
       <file name="/Dummy.txt" timestamp="1589125313288">
         <mark key="[" line="0" column="0" />
@@ -52,12 +55,10 @@
     <jumps />
     <registers>
       <register name="&quot;" type="4">
-        <text>zettlr_id = re.compile(r'\d{4}_\d{2}_\d{2}_\d{2}-\d{2}-\d{2}')
-test_zettlr_id = r'2020_05_04_21-39-37-Zettlr for Zettelkasten.md'
-print(zettlr_id.search(test_zettlr_id))</text>
+        <text>test_zettlr_id</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>test_zettlr_id</text>
       </register>
       <register name="/" type="4">
         <text>line2</text>
@@ -96,7 +97,7 @@ functions that will be improved upon later.</text>
         <text encoding="base64">ICAgICAgICBzZWxmLmJ1dHRvbl9yZXNldC5tb3ZlKDEwMCwgODApCg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL2xpbmUyL3NlbGYubDIvZw==</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -120,7 +121,6 @@ functions that will be improved upon later.</text>
         <entry>line2</entry>
       </history-search>
       <history-cmd>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5zL3Jlc2V0L21vcmVfcmlnaHQ=</entry>
         <entry encoding="base64">JzwsJz5zL3Jlc2V0L2xlc3NfcmlnaHQvZw==</entry>
         <entry encoding="base64">JzwsJz5zL3Jlc2V0L21vcmVfbGVmdC9n</entry>
@@ -131,6 +131,7 @@ functions that will be improved upon later.</text>
         <entry encoding="base64">JzwsJz5zL2F4Mi9zZWxmLlwwL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2RmL3NlbGYuXDAvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2xpbmUyL3NlbGYubDIvZw==</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
