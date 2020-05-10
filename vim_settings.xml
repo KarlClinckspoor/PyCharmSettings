@@ -2,6 +2,35 @@
   <component name="VimEditorSettings">
     <editor />
   </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>R =</entry>
+        <entry>msd</entry>
+        <entry>sc</entry>
+        <entry>reset</entry>
+        <entry>indexes_chosen</entry>
+        <entry>ax2</entry>
+        <entry>df</entry>
+        <entry>line2</entry>
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64">JzwsJz5zL3Jlc2V0L21vcmVfcmlnaHQ=</entry>
+        <entry encoding="base64">JzwsJz5zL3Jlc2V0L2xlc3NfcmlnaHQvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL3Jlc2V0L21vcmVfbGVmdC9n</entry>
+        <entry encoding="base64">JzwsJz5zL3Jlc2V0L2xlc3NfbGVmdC9n</entry>
+        <entry encoding="base64">JzwsJz5zL2luZGV4ZXNfY2hvc2VuL3NlbGYuXDE=</entry>
+        <entry encoding="base64">JzwsJz5zL2luZGV4ZXNfY2hvc2VuL3NlbGYuXDA=</entry>
+        <entry encoding="base64">JzwsJz5zL2luZGV4ZXNfY2hvc2VuL3NlbGYuXDAvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL2F4Mi9zZWxmLlwwL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL2RmL3NlbGYuXDAvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL2xpbmUyL3NlbGYubDIvZw==</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
   <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
@@ -35,6 +64,120 @@
         <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="D:/Dropbox/Zettelkasten_convert/zettlrmd_to_org_roam.py" timestamp="1589126168883">
+        <mark key="[" line="2" column="15" />
+        <mark key="]" line="3" column="10" />
+        <mark key="^" line="3" column="10" />
+        <mark key="." line="3" column="10" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1589125313288">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="D:/Dropbox/Python/LABORE/helper/crop_contin_gui.py" timestamp="1582663764194">
+        <mark key="'" line="174" column="25" />
+        <mark key="[" line="71" column="18" />
+        <mark key="]" line="71" column="18" />
+        <mark key="." line="71" column="18" />
+        <mark key="^" line="72" column="59" />
+      </file>
+      <file name="$USER_HOME$/Desktop/RILT/MWE.py" timestamp="1582656842406">
+        <mark key="[" line="77" column="114" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
+        <mark key="^" line="78" column="0" />
+      </file>
+      <file name="D:/Dropbox/Python/LABORE/helper/crop_contin.py" timestamp="1582663412933">
+        <mark key="[" line="202" column="0" />
+        <mark key="]" line="232" column="29" />
+      </file>
+      <file name="$USER_HOME$/Desktop/RILT/RILT.py" timestamp="1581463942509">
+        <mark key="'" line="109" column="14" />
+        <mark key="[" line="380" column="17" />
+        <mark key="]" line="380" column="17" />
+        <mark key="." line="380" column="17" />
+        <mark key="^" line="162" column="14" />
+      </file>
+      <file name="$USER_HOME$/Desktop/LABORE/helper/crop_contin_gui.py" timestamp="1582657069568">
+        <mark key="'" line="34" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="34" column="10" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="D:/Dropbox/Zettelkasten_convert/obs.md" timestamp="1589125618763">
+        <mark key="[" line="3" column="64" />
+        <mark key="]" line="4" column="39" />
+        <mark key="^" line="4" column="39" />
+        <mark key="." line="4" column="39" />
+      </file>
+    </filemarks>
+    <jumps />
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="4">
+        <text>test_zettlr_id</text>
+      </register>
+      <register name="-" type="4">
+        <text>test_zettlr_id</text>
+      </register>
+      <register name="/" type="4">
+        <text>line2</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBkZWYgb25fbGVzc19sZWZ0KGV2ZW50KToKICAgICAgICAgICAgIiIiRnVuY3Rpb24gdGhhdCBhZGRzIG9yIHJlbW92ZXMgb25lIHBvaW50IHRvIHRoZSBzZWxlY3RlZCByYW5nZSIiIgogICAgICAgICAgICBub25sb2NhbCBpbmRleGVzX2Nob3NlbgogICAgICAgICAgICBpZiBsZW4oaW5kZXhlc19jaG9zZW4pID09IDA6CiAgICAgICAgICAgICAgICBpbmRleGVzX2Nob3NlbiA9IFswLCAxXQogICAgICAgICAgICBpbmRleGVzX2Nob3NlblswXSAtPSAxCiAgICAgICAgICAgIGlmIGluZGV4ZXNfY2hvc2VuWzBdIDwgMDoKICAgICAgICAgICAgICAgIGluZGV4ZXNfY2hvc2VuWzBdID0gMAogICAgICAgICAgICB0aGlzeCA9IGRmLnZhbHVlc1tpbmRleGVzX2Nob3NlblswXTppbmRleGVzX2Nob3NlblsxXSwgMF0KICAgICAgICAgICAgdGhpc3kgPSBkZi52YWx1ZXNbaW5kZXhlc19jaG9zZW5bMF06aW5kZXhlc19jaG9zZW5bMV0sIDFdCiAgICAgICAgICAgIGxpbmUyLnNldF9kYXRhKHRoaXN4LCB0aGlzeSkKICAgICAgICAgICAgYXgyLnNldF94bGltKHRoaXN4WzBdLCB0aGlzeFstMV0pCiAgICAgICAgICAgIGF4Mi5zZXRfeWxpbSh0aGlzeS5taW4oKSwgdGhpc3kubWF4KCkpCiAgICAgICAgICAgIGF4Mi5zZXRfdGl0bGUoZiJTdGFydDogW3tpbmRleGVzX2Nob3NlblswXX1dLiBFbmQ6IFt7aW5kZXhlc19jaG9zZW5bMV19XSIpCiAgICAgICAgICAgIGZpZy5jYW52YXMuZHJhdygpCgogICAgICAgIGRlZiBvbl9tb3JlX2xlZnQoZXZlbnQpOgogICAgICAgICAgICAiIiJGdW5jdGlvbiB0aGF0IGFkZHMgb3IgcmVtb3ZlcyBvbmUgcG9pbnQgdG8gdGhlIHNlbGVjdGVkIHJhbmdlIiIiCiAgICAgICAgICAgIG5vbmxvY2FsIGluZGV4ZXNfY2hvc2VuCiAgICAgICAgICAgIGlmIGxlbihpbmRleGVzX2Nob3NlbikgPT0gMDoKICAgICAgICAgICAgICAgIGluZGV4ZXNfY2hvc2VuID0gWzAsIDFdCiAgICAgICAgICAgIGluZGV4ZXNfY2hvc2VuWzBdICs9IDEKICAgICAgICAgICAgaWYgaW5kZXhlc19jaG9zZW5bMF0gPiBpbmRleGVzX2Nob3NlblsxXToKICAgICAgICAgICAgICAgIGluZGV4ZXNfY2hvc2VuWzBdID0gaW5kZXhlc19jaG9zZW5bMV0gLSAxCiAgICAgICAgICAgIHRoaXN4ID0gZGYudmFsdWVzW2luZGV4ZXNfY2hvc2VuWzBdOmluZGV4ZXNfY2hvc2VuWzFdLCAwXQogICAgICAgICAgICB0aGlzeSA9IGRmLnZhbHVlc1tpbmRleGVzX2Nob3NlblswXTppbmRleGVzX2Nob3NlblsxXSwgMV0KICAgICAgICAgICAgbGluZTIuc2V0X2RhdGEodGhpc3gsIHRoaXN5KQogICAgICAgICAgICBheDIuc2V0X3hsaW0odGhpc3hbMF0sIHRoaXN4Wy0xXSkKICAgICAgICAgICAgYXgyLnNldF95bGltKHRoaXN5Lm1pbigpLCB0aGlzeS5tYXgoKSkKICAgICAgICAgICAgYXgyLnNldF90aXRsZShmIlN0YXJ0OiBbe2luZGV4ZXNfY2hvc2VuWzBdfV0uIEVuZDogW3tpbmRleGVzX2Nob3NlblsxXX1dIikKICAgICAgICAgICAgZmlnLmNhbnZhcy5kcmF3KCkK</text>
+      </register>
+      <register name="1" type="4">
+        <text>zettlr_id = re.compile(r'\d{4}_\d{2}_\d{2}_\d{2}-\d{2}-\d{2}')
+test_zettlr_id = r'2020_05_04_21-39-37-Zettlr for Zettelkasten.md'
+print(zettlr_id.search(test_zettlr_id))</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IAo=</text>
+      </register>
+      <register name="3" type="4">
+        <text>Added more loading functions and their docstrings. Added some helper
+functions that will be improved upon later.</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBub25sb2NhbCBzZWxmLmluZGV4ZXNfY2hvc2VuCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBub25sb2NhbCBzZWxmLmluZGV4ZXNfY2hvc2VuCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAKICAgIEBweXF0U2xvdCgpCiAgICBkZWYgb25fbW9yZV9sZWZ0KHNlbGYpOgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBub25sb2NhbCBpbmRleGVzX2Nob3Nlbgo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmJ1dHRvbl9yZXNldC5tb3ZlKDEwMCwgODApCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search>line2</last-search>
+      <last-offset />
+      <last-pattern>line2</last-pattern>
+      <last-replace>self.l2</last-replace>
+      <last-substitute>line2</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
   </component>
   <component name="VimSettings">
     <state version="6" enabled="true" />
