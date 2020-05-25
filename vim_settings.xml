@@ -79,7 +79,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1590435584765">
+      <file name="/Dummy.txt" timestamp="1590438053371">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -134,14 +134,16 @@
         <mark key="[" line="202" column="0" />
         <mark key="]" line="232" column="29" />
       </file>
-      <file name="D:/Dropbox/Python/ZettlrOrgFilter/filter.py" timestamp="1590435542656">
-        <mark key="[" line="4" column="35" />
-        <mark key="]" line="4" column="52" />
+      <file name="D:/Dropbox/Python/ZettlrOrgFilter/filter.py" timestamp="1590438023799">
+        <mark key="[" line="31" column="47" />
+        <mark key="]" line="31" column="46" />
+        <mark key="." line="31" column="45" />
+        <mark key="^" line="31" column="46" />
       </file>
-      <file name="D:/Dropbox/Python/ZettlrOrgFilter/zettlr_md_to_org_filter.py" timestamp="1590437893944">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="71" />
+      <file name="D:/Dropbox/Python/ZettlrOrgFilter/zettlr_md_to_org_filter.py" timestamp="1590437958538">
+        <mark key="'" line="0" column="15" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="40" column="0" />
         <mark key="." line="18" column="12" />
         <mark key="^" line="18" column="13" />
       </file>
@@ -155,54 +157,54 @@
     </filemarks>
     <jumps>
       <jump line="16" column="0" filename="D:/Dropbox/Python/ZettlrOrgFilter/zettlr_md_to_org_filter.py" />
+      <jump line="0" column="15" filename="D:/Dropbox/Python/ZettlrOrgFilter/zettlr_md_to_org_filter.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>(</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">aW1wb3J0IHBhbmZsdXRlIGFzIHBmCgptZCA9ICdTb21lIG1hcmtkb3duIFtbMjAyMF8wNV8xMF8xMi01Ny0wOV1dIHdpa2lsaW5rIHRvIGNvbnZlcnQnCnBmLmNvbnZlcnRfdGV4dChtZCwgaW5wdXRfZm9ybWF0PSdtYXJrZG93bicpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>'</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c2FtcGxlX21kID0gJ1NvbWUgbWFya2Rvd24gW1syMDIwXzA1XzEwXzEyLTU3LTA5XV0gd2lraWxpbmsgdG8gY29udmVydCcK</text>
+        <text encoding="base64">aW1wb3J0IHBhbmZsdXRlIGFzIHBmCmltcG9ydCByZQppbXBvcnQgZ2xvYgoKd2lraWxpbmtfcGF0dGVybiA9IHJlLmNvbXBpbGUocidcW1xbKFswLTlfLV0rKVxdXF0nKQp0YWdfcGF0dGVybiA9IHJlLmNvbXBpbGUocicoXGR7NH1fXGR7Mn1fXGR7Mn1fXGR7Mn0tXGR7Mn0tXGR7Mn0pJykKCnNhbXBsZV9maWxlcyA9ICIiIjIwMjBfMDVfMDVfMTYtMDUtMjQgM0IxQiBMb2dhcml0aG1zLm1kCjIwMjBfMDVfMDhfMTYtMDItNTAgM0IxQiBuYXR1cmFsIGxvZy5tZAoyMDIwXzA1XzA4XzE4LTU4LTM4IGFydGljbGUgbmlrbGFzIGx1aG1hbm4ubWQKMjAyMF8wNV8wOV8xNi0xMS0yNSBCb29rIG1ha2luZy5tZAoyMDIwXzA1XzEwXzEyLTU3LTA5IHBhbmRvYyBhbmQgdmVuZG9yIGxvY2staW4ubWQKMjAyMF8wNV8xMl8xNi0wMy0wOCAzQjFCIFRldHJhdGlvbi5tZAoyMDIwXzA1XzE1XzE2LTA3LTQyIDNCMUIgaSBwb3dlciBpLm1kCjIwMjBfMDVfMTZfMjItNDktMjkgR2l0IGZvciBhY2FkZW1pY3MubWQKMjAyMF8wNV8yMV8yMC0yOS0xMiBWaW0gQm9vayBhbm5vdGF0aW9ucy5tZAoyMDIwXzA1XzI0XzE4LTM4LTIyIFNwaW5uaW5nIG93biBzcGFjZW1hY3MtbGl0ZS5tZCIiIi5zcGxpdCgnXG4nKQoKc2FtcGxlX21kID0gJ1NvbWUgbWFya2Rvd24gW1syMDIwXzA1XzEwXzEyLTU3LTA5XV0gd2lraWxpbmsgdG8gY29udmVydCcKc2FtcGxlX29yZyA9ICdTb21lIG9yZyBbW2ZpbGU6dGhpc19maWxlLm1kXVtBbHQgdGV4dF1dJwpjb252ZXJ0ZWRfdGV4dCA9IHBmLmNvbnZlcnRfdGV4dChzYW1wbGVfbWQsIGlucHV0X2Zvcm1hdD0nbWFya2Rvd24nKQpjb252ZXJ0ZWRfdGV4dF9vcmcgPSBwZi5jb252ZXJ0X3RleHQoc2FtcGxlX29yZywgaW5wdXRfZm9ybWF0PSdvcmcnKQpkb2N1bWVudCA9IHBmLkRvYygqY29udmVydGVkX3RleHQpCgpkZWYgY29udmVydF9saW5rKGVsZW0sIGRvYyk6CiAgICBpZiBpc2luc3RhbmNlKGVsZW0sIChwZi5TdHIpKSBhbmQgd2lraWxpbmtfcGF0dGVybi5maW5kYWxsKGVsZW0udGV4dCk6CiAgICAgICAgaWRfID0gd2lraWxpbmtfcGF0dGVybi5maW5kYWxsKGVsZW0udGV4dClbMF0KICAgICAgICBmb3IgZmlsZSBpbiBzYW1wbGVfZmlsZXM6ICN0b2RvOiBjaGFuZ2UgdGhpcyB0byBnbG9iIG9yIHNvbWV0aGluZyBiZXR0ZXIsIGxpa2UgYSBkaWN0CiAgICAgICAgICAgIGlmIGlkXyBpbiBmaWxlOgogICAgICAgICAgICAgICAgYnJlYWsgIyBJZiBpdCBmb3VuZCB0aGUgZmlsZSwgZ29lcyBvdXQsIGFuZCB0aGUgZmlsZSB2YXIgcmVtYWlucwogICAgICAgIGVsc2U6ICMgaW4gY2FzZSBpdCBjb21wbGV0ZXMgdGhlIGxvb3Agc3VjY2VzZnVsbHksIHJhaXNlIGV4Y2VwdGlvbgogICAgICAgICAgICByYWlzZSBFeGNlcHRpb24oJ0NvdWxkIG5vdCBmaW5kIHRoZSBmaWxlIHRvIGxpbmsgdG8nKQoKICAgICAgICAjbGluayA9IHBmLkxpbmsoaWRfLCB1cmw9ZidmaWxlOntmaWxlfScpCiAgICAgICAgbGluayA9IHBmLkxpbmsocGYuU3RyKGlkXyksIHVybD1maWxlKQogICAgICAgIHJldHVybiBsaW5rCgpkb2N1bWVudC53YWxrKGNvbnZlcnRfbGluaykKCgoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">MjAyMF8wNV8xMF8xMi01Ny0wOSBNYWtlIGJ1bGxldHMgaW4gb3JnIGxvYWQgZmFzdGVyLm1kCg==</text>
+        <text encoding="base64">ZG9jdW1lbnQud2Fsayhjb252ZXJ0X2xpbmspCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">MjAyMF8wNV8xMF8xMi01Ny0wOSBwYW5kb2MgYW5kIHZlbmRvciBsb2NrLWluLm1kCg==</text>
+        <text encoding="base64">ICAgICAgICAjbGluayA9IHBmLkxpbmsoaWRfLCB1cmw9ZidmaWxlOntmaWxlfScpCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">c2FtcGxlX21kID0gJ1NvbWUgbWFya2Rvd24gW1syMDIwXzA1XzEwXzEyLTU3LTA5XV0gd2lraWxpbmsgdG8gY29udmVydCcKc2FtcGxlX29yZyA9ICdTb21lIG9yZyBbW2ZpbGU6dGhpc19maWxlLm1kXVtBbHQgdGV4dF1dJwpjb252ZXJ0ZWRfdGV4dCA9IHBmLmNvbnZlcnRfdGV4dChzYW1wbGVfbWQsIGlucHV0X2Zvcm1hdD0nbWFya2Rvd24nKQpjb252ZXJ0ZWRfdGV4dF9vcmcgPSBwZi5jb252ZXJ0X3RleHQoc2FtcGxlX29yZywgaW5wdXRfZm9ybWF0PSdvcmcnKQpkb2N1bWVudCA9IHBmLkRvYygqY29udmVydGVkX3RleHQpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IHBhbmRvY2ZpbHRlcnMgYXMgcGYKaW1wb3J0IHJlCgpkZWYgZmluZF9saW5rKGtleSwgdmFsdWUsIGZvcm1hdF8sIG1ldGEpOgogICAgaWYga2V5ID09ICdTdHInIGFuZCByZS5maW5kYWxsKHInXFtcW1swLTlfLV1cXVxdJywgdmFsdWUpOgogICAgICAgIHJldHVybiB2YWx1ZVsyXQoKaWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIHBmLnRvSlNPTkZpbHRlcihmaW5kX2xpbmspCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">MjAyMF8wNV8xMF8xMi01Ny0wOSBNYWtlIGJ1bGxldHMgaW4gb3JnIGxvYWQgZmFzdGVyLm1kCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">MjAyMF8wNV8xMF8xMi01Ny0wOSBwYW5kb2MgYW5kIHZlbmRvciBsb2NrLWluLm1kCg==</text>
+      </register>
+      <register name="8" type="2">
         <text>2020_05_10_12-57-09 pandoc and vendor lock-in.md</text>
       </register>
-      <register name="4" type="4">
+      <register name="9" type="4">
         <text>zettlr_id = re.compile(r'\d{4}_\d{2}_\d{2}_\d{2}-\d{2}-\d{2}')
 test_zettlr_id = r'2020_05_04_21-39-37-Zettlr for Zettelkasten.md'
 print(zettlr_id.search(test_zettlr_id))</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
-      </register>
-      <register name="6" type="4">
-        <text>Added more loading functions and their docstrings. Added some helper
-functions that will be improved upon later.</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBub25sb2NhbCBzZWxmLmluZGV4ZXNfY2hvc2VuCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBub25sb2NhbCBzZWxmLmluZGV4ZXNfY2hvc2VuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
