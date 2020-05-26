@@ -79,7 +79,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1590438053371">
+      <file name="/Dummy.txt" timestamp="1590439022690">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -104,6 +104,9 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="/Testing" timestamp="1590438789544">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1590438946383">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/RILT/RILT.py" timestamp="1581463942509">
