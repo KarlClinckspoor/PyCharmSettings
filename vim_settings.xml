@@ -79,7 +79,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1590439022690">
+      <file name="/Dummy.txt" timestamp="1611793858401">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -134,11 +134,11 @@
         <mark key="." line="0" column="56" />
         <mark key="^" line="0" column="57" />
       </file>
-      <file name="G:/KarlOwncloud/Repos/FilmeTese/main.py" timestamp="1611791841641">
-        <mark key="[" line="5" column="19" />
-        <mark key="]" line="5" column="20" />
-        <mark key="." line="5" column="19" />
-        <mark key="^" line="5" column="20" />
+      <file name="G:/KarlOwncloud/Repos/FilmeTese/main.py" timestamp="1611793722807">
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="^" line="77" column="25" />
+        <mark key="." line="86" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/RILT/MWE.py" timestamp="1582656842406">
         <mark key="[" line="77" column="114" />
@@ -149,6 +149,12 @@
       <file name="D:/Dropbox/Python/LABORE/helper/crop_contin.py" timestamp="1582663412933">
         <mark key="[" line="202" column="0" />
         <mark key="]" line="232" column="29" />
+      </file>
+      <file name="G:/KarlOwncloud/Repos/FilmeTese/create_figure.py" timestamp="1611793844411">
+        <mark key="'" line="458" column="0" />
+        <mark key="[" line="458" column="0" />
+        <mark key="]" line="458" column="0" />
+        <mark key="." line="458" column="0" />
       </file>
       <file name="D:/Dropbox/Python/ZettlrOrgFilter/filter.py" timestamp="1590438595783">
         <mark key="[" line="32" column="11" />
@@ -180,32 +186,42 @@
     <jumps>
       <jump line="16" column="0" filename="D:/Dropbox/Python/ZettlrOrgFilter/zettlr_md_to_org_filter.py" />
       <jump line="0" column="15" filename="D:/Dropbox/Python/ZettlrOrgFilter/zettlr_md_to_org_filter.py" />
+      <jump line="450" column="4" filename="G:/KarlOwncloud/Repos/FilmeTese/create_figure.py" />
+      <jump line="452" column="33" filename="G:/KarlOwncloud/Repos/FilmeTese/create_figure.py" />
+      <jump line="459" column="12" filename="G:/KarlOwncloud/Repos/FilmeTese/create_figure.py" />
+      <jump line="458" column="0" filename="G:/KarlOwncloud/Repos/FilmeTese/create_figure.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>(
-    thesis_path,
-    stats_basepath,
-    compiled_pdfs_path,
-    pdf_pages_path,
-    collated_pdfs_path,
-)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYXR0cmlidXRlcyAoTGlzdFtzdHJdLCBvcHRpb25hbCk6IFRoZSBhdHRyaWJ1dGVzIG9mIHRoZSBTdGF0cyBjbGFzcyB0aGF0IHdpbGwgYmUgcGxvdHRlZAo=</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">aW1wb3J0IHBhbmZsdXRlIGFzIHBmCgptZCA9ICdTb21lIG1hcmtkb3duIFtbMjAyMF8wNV8xMF8xMi01Ny0wOV1dIHdpa2lsaW5rIHRvIGNvbnZlcnQnCnBmLmNvbnZlcnRfdGV4dChtZCwgaW5wdXRfZm9ybWF0PSdtYXJrZG93bicpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>convert_link</text>
+        <text>full_text</text>
       </register>
       <register name="/" type="4">
-        <text>'</text>
+        <text>attributes</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHBhbmZsdXRlIGFzIHBmCmltcG9ydCByZQppbXBvcnQgZ2xvYgoKd2lraWxpbmtfcGF0dGVybiA9IHJlLmNvbXBpbGUocidcW1xbKFswLTlfLV0rKVxdXF0nKQp0YWdfcGF0dGVybiA9IHJlLmNvbXBpbGUocicoXGR7NH1fXGR7Mn1fXGR7Mn1fXGR7Mn0tXGR7Mn0tXGR7Mn0pJykKCnNhbXBsZV9maWxlcyA9ICIiIjIwMjBfMDVfMDVfMTYtMDUtMjQgM0IxQiBMb2dhcml0aG1zLm1kCjIwMjBfMDVfMDhfMTYtMDItNTAgM0IxQiBuYXR1cmFsIGxvZy5tZAoyMDIwXzA1XzA4XzE4LTU4LTM4IGFydGljbGUgbmlrbGFzIGx1aG1hbm4ubWQKMjAyMF8wNV8wOV8xNi0xMS0yNSBCb29rIG1ha2luZy5tZAoyMDIwXzA1XzEwXzEyLTU3LTA5IHBhbmRvYyBhbmQgdmVuZG9yIGxvY2staW4ubWQKMjAyMF8wNV8xMl8xNi0wMy0wOCAzQjFCIFRldHJhdGlvbi5tZAoyMDIwXzA1XzE1XzE2LTA3LTQyIDNCMUIgaSBwb3dlciBpLm1kCjIwMjBfMDVfMTZfMjItNDktMjkgR2l0IGZvciBhY2FkZW1pY3MubWQKMjAyMF8wNV8yMV8yMC0yOS0xMiBWaW0gQm9vayBhbm5vdGF0aW9ucy5tZAoyMDIwXzA1XzI0XzE4LTM4LTIyIFNwaW5uaW5nIG93biBzcGFjZW1hY3MtbGl0ZS5tZCIiIi5zcGxpdCgnXG4nKQoKc2FtcGxlX21kID0gJ1NvbWUgbWFya2Rvd24gW1syMDIwXzA1XzEwXzEyLTU3LTA5XV0gd2lraWxpbmsgdG8gY29udmVydCcKc2FtcGxlX29yZyA9ICdTb21lIG9yZyBbW2ZpbGU6dGhpc19maWxlLm1kXVtBbHQgdGV4dF1dJwpjb252ZXJ0ZWRfdGV4dCA9IHBmLmNvbnZlcnRfdGV4dChzYW1wbGVfbWQsIGlucHV0X2Zvcm1hdD0nbWFya2Rvd24nKQpjb252ZXJ0ZWRfdGV4dF9vcmcgPSBwZi5jb252ZXJ0X3RleHQoc2FtcGxlX29yZywgaW5wdXRfZm9ybWF0PSdvcmcnKQpkb2N1bWVudCA9IHBmLkRvYygqY29udmVydGVkX3RleHQpCgpkZWYgY29udmVydF9saW5rKGVsZW0sIGRvYyk6CiAgICBpZiBpc2luc3RhbmNlKGVsZW0sIChwZi5TdHIpKSBhbmQgd2lraWxpbmtfcGF0dGVybi5maW5kYWxsKGVsZW0udGV4dCk6CiAgICAgICAgaWRfID0gd2lraWxpbmtfcGF0dGVybi5maW5kYWxsKGVsZW0udGV4dClbMF0KICAgICAgICBmb3IgZmlsZSBpbiBzYW1wbGVfZmlsZXM6ICN0b2RvOiBjaGFuZ2UgdGhpcyB0byBnbG9iIG9yIHNvbWV0aGluZyBiZXR0ZXIsIGxpa2UgYSBkaWN0CiAgICAgICAgICAgIGlmIGlkXyBpbiBmaWxlOgogICAgICAgICAgICAgICAgYnJlYWsgIyBJZiBpdCBmb3VuZCB0aGUgZmlsZSwgZ29lcyBvdXQsIGFuZCB0aGUgZmlsZSB2YXIgcmVtYWlucwogICAgICAgIGVsc2U6ICMgaW4gY2FzZSBpdCBjb21wbGV0ZXMgdGhlIGxvb3Agc3VjY2VzZnVsbHksIHJhaXNlIGV4Y2VwdGlvbgogICAgICAgICAgICByYWlzZSBFeGNlcHRpb24oJ0NvdWxkIG5vdCBmaW5kIHRoZSBmaWxlIHRvIGxpbmsgdG8nKQoKICAgICAgICAjbGluayA9IHBmLkxpbmsoaWRfLCB1cmw9ZidmaWxlOntmaWxlfScpCiAgICAgICAgbGluayA9IHBmLkxpbmsocGYuU3RyKGlkXyksIHVybD1maWxlKQogICAgICAgIHJldHVybiBsaW5rCgpkb2N1bWVudC53YWxrKGNvbnZlcnRfbGluaykKCgoK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYXR0cmlidXRlcyAoTGlzdFtzdHJdLCBvcHRpb25hbCk6IFRoZSBhdHRyaWJ1dGVzIG9mIHRoZSBTdGF0cyBjbGFzcyB0aGF0IHdpbGwgYmUgcGxvdHRlZAo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGF0dHJpYnV0ZXM6IExpc3Rbc3RyXSA9IFsid29yZF9jb3VudCIsICJ1bmlxdWVfd29yZF9jb3VudCJdLAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHJlcG8uZ2l0LmNoZWNrb3V0KHN0YXJ0aW5nX3NoYSkK</text>
+      </register>
+      <register name="5" type="4">
         <text>(
     thesis_path,
     stats_basepath,
@@ -214,29 +230,17 @@
     collated_pdfs_path,
 )</text>
       </register>
-      <register name="2" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBwZi5kZWJ1ZygnSGVyZSEnKQo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBwZi5kZWJ1ZyhlbGVtLnRleHQpCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHBmLmRlYnVnKCdIZXJlIScpCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaAojIS91c3IvYmluL2VudiBiYXNoCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text>#!/usr/bin/env bash</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZG9jdW1lbnQud2Fsayhjb252ZXJ0X2xpbmspCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjbGluayA9IHBmLkxpbmsoaWRfLCB1cmw9ZidmaWxlOntmaWxlfScpCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaAojIS91c3IvYmluL2VudiBiYXNoCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -245,9 +249,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>'</last-search>
+      <last-search>attributes</last-search>
       <last-offset />
-      <last-pattern>'</last-pattern>
+      <last-pattern>attributes</last-pattern>
       <last-replace />
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
