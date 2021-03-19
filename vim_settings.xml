@@ -14,6 +14,7 @@
         <entry>df</entry>
         <entry>line2</entry>
         <entry>'</entry>
+        <entry>kernel</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3Jlc2V0L21vcmVfcmlnaHQ=</entry>
@@ -82,7 +83,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1616155241649">
+      <file name="/Dummy.txt" timestamp="1616157683176">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -131,17 +132,11 @@
         <mark key="." line="31" column="31" />
         <mark key="^" line="31" column="27" />
       </file>
-      <file name="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/transition_inversion.py" timestamp="1616155939727">
-        <mark key="[" line="9" column="30" />
-        <mark key="]" line="10" column="12" />
-        <mark key="^" line="10" column="12" />
-        <mark key="." line="10" column="11" />
-      </file>
-      <file name="D:/Dropbox/Python/ZettlrOrgFilter/teste.md" timestamp="1590437901221">
-        <mark key="[" line="0" column="58" />
-        <mark key="]" line="0" column="57" />
-        <mark key="." line="0" column="56" />
-        <mark key="^" line="0" column="57" />
+      <file name="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/transition_inversion.py" timestamp="1616157475996">
+        <mark key="[" line="17" column="58" />
+        <mark key="]" line="17" column="51" />
+        <mark key="." line="17" column="51" />
+        <mark key="^" line="17" column="15" />
       </file>
       <file name="G:/KarlOwncloud/Repos/FilmeTese/main.py" timestamp="1611793722807">
         <mark key="[" line="86" column="0" />
@@ -169,8 +164,8 @@
         <mark key="." line="16" column="12" />
         <mark key="^" line="17" column="19" />
       </file>
-      <file name="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" timestamp="1615582686548">
-        <mark key="'" line="1" column="0" />
+      <file name="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" timestamp="1616157259345">
+        <mark key="'" line="228" column="16" />
         <mark key="j" line="310" column="0" />
         <mark key="[" line="323" column="45" />
         <mark key="]" line="323" column="45" />
@@ -196,18 +191,14 @@
         <mark key="." line="0" column="49" />
         <mark key="^" line="0" column="50" />
       </file>
+      <file name="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/mypy.ini" timestamp="1616156550708">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="34" />
+        <mark key="." line="1" column="33" />
+        <mark key="^" line="1" column="34" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="162" column="0" filename="$USER_HOME$/Desktop/RILT/RILT.py" />
-      <jump line="31" column="0" filename="$USER_HOME$/Desktop/RILT/RILT.py" />
-      <jump line="59" column="6" filename="$USER_HOME$/Desktop/RILT/RILT.py" />
-      <jump line="60" column="32" filename="$USER_HOME$/Desktop/RILT/RILT.py" />
-      <jump line="65" column="6" filename="$USER_HOME$/Desktop/RILT/RILT.py" />
-      <jump line="75" column="10" filename="$USER_HOME$/Desktop/RILT/RILT.py" />
-      <jump line="77" column="18" filename="$USER_HOME$/Desktop/RILT/RILT.py" />
-      <jump line="78" column="24" filename="$USER_HOME$/Desktop/RILT/RILT.py" />
-      <jump line="79" column="17" filename="$USER_HOME$/Desktop/RILT/RILT.py" />
-      <jump line="88" column="22" filename="$USER_HOME$/Desktop/RILT/RILT.py" />
       <jump line="93" column="25" filename="$USER_HOME$/Desktop/RILT/RILT.py" />
       <jump line="108" column="14" filename="$USER_HOME$/Desktop/RILT/RILT.py" />
       <jump line="109" column="14" filename="$USER_HOME$/Desktop/RILT/RILT.py" />
@@ -288,51 +279,71 @@
       <jump line="327" column="39" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
       <jump line="369" column="4" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
       <jump line="1" column="0" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
+      <jump line="13" column="0" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/transition_inversion.py" />
+      <jump line="61" column="14" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
+      <jump line="377" column="4" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
+      <jump line="57" column="4" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
+      <jump line="376" column="83" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
+      <jump line="375" column="4" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
+      <jump line="374" column="13" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
+      <jump line="351" column="75" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
+      <jump line="305" column="23" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
+      <jump line="303" column="55" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
+      <jump line="292" column="14" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
+      <jump line="291" column="28" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
+      <jump line="290" column="12" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
+      <jump line="288" column="35" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
+      <jump line="286" column="8" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
+      <jump line="258" column="12" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
+      <jump line="257" column="4" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
+      <jump line="240" column="4" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
+      <jump line="231" column="31" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
+      <jump line="228" column="16" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">aW1wb3J0IHBhbmZsdXRlIGFzIHBmCgptZCA9ICdTb21lIG1hcmtkb3duIFtbMjAyMF8wNV8xMF8xMi01Ny0wOV1dIHdpa2lsaW5rIHRvIGNvbnZlcnQnCnBmLmNvbnZlcnRfdGV4dChtZCwgaW5wdXRfZm9ybWF0PSdtYXJrZG93bicpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>int_range</text>
       </register>
       <register name="/" type="4">
-        <text>ax1</text>
+        <text>kernel</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAjIGRpZmZzID0gbnAuZ3JhZGllbnQobnAuZ3JhZGllbnQoR0NWX3ZhbHVlcywgYWxwaGFfcmFuZ2UpLCBhbHBoYV9yYW5nZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIGRpZmZzID0gbnAuZ3JhZGllbnQobnAuZ3JhZGllbnQoR0NWX3ZhbHVlcywgYWxwaGFfcmFuZ2UpLCBhbHBoYV9yYW5nZSkK</text>
+        <text encoding="base64">ZGVmIHRlc3QoYTogc3RyLCBiOnN0cikgLT4gc3RyOgogICAgcmV0dXJuIGErYgoKCnByaW50KHRlc3QoMSwgMikpCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkaWZmcyA9IG5wLmdyYWRpZW50KG5wLmdyYWRpZW50KGFscGhhX3JhbmdlLCBHQ1ZfdmFsdWVzKSwgYWxwaGFfcmFuZ2UpCg==</text>
+        <text encoding="base64">ZnJvbSBudW1weS50eXBpbmcgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwbHQueHNjYWxlKCdsb2cnKQo=</text>
+        <text encoding="base64">bnAudHlwaW5nLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwbHQuYXh2bGluZShHQ1ZfdmFsdWVzW21pbl9pbmRleF0pCg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YXgwLnBsb3QodGltZXMsIG5vaXN5X2RhdGEsIGxhYmVsPScnKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIGRpZmZzID0gbnAuZ3JhZGllbnQobnAuZ3JhZGllbnQoR0NWX3ZhbHVlcywgYWxwaGFfcmFuZ2UpLCBhbHBoYV9yYW5nZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkaWZmcyA9IG5wLmdyYWRpZW50KG5wLmdyYWRpZW50KGFscGhhX3JhbmdlLCBHQ1ZfdmFsdWVzKSwgYWxwaGFfcmFuZ2UpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -341,9 +352,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>ax1</last-search>
+      <last-search>kernel</last-search>
       <last-offset />
-      <last-pattern>ax1</last-pattern>
+      <last-pattern>kernel</last-pattern>
       <last-replace>self.l2</last-replace>
       <last-substitute>line2</last-substitute>
       <last-dir>1</last-dir>
