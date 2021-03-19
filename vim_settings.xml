@@ -132,11 +132,12 @@
         <mark key="." line="31" column="31" />
         <mark key="^" line="31" column="27" />
       </file>
-      <file name="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/transition_inversion.py" timestamp="1616157475996">
-        <mark key="[" line="17" column="58" />
-        <mark key="]" line="17" column="51" />
-        <mark key="." line="17" column="51" />
-        <mark key="^" line="17" column="15" />
+      <file name="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/transition_inversion.py" timestamp="1616159332529">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="105" column="29" />
+        <mark key="." line="63" column="0" />
+        <mark key="^" line="21" column="11" />
       </file>
       <file name="G:/KarlOwncloud/Repos/FilmeTese/main.py" timestamp="1611793722807">
         <mark key="[" line="86" column="0" />
@@ -164,11 +165,11 @@
         <mark key="." line="16" column="12" />
         <mark key="^" line="17" column="19" />
       </file>
-      <file name="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" timestamp="1616157259345">
-        <mark key="'" line="228" column="16" />
+      <file name="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" timestamp="1616159210525">
+        <mark key="'" line="377" column="4" />
         <mark key="j" line="310" column="0" />
-        <mark key="[" line="323" column="45" />
-        <mark key="]" line="323" column="45" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="50" />
         <mark key="." line="323" column="45" />
         <mark key="^" line="323" column="45" />
       </file>
@@ -199,16 +200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="25" filename="$USER_HOME$/Desktop/RILT/RILT.py" />
-      <jump line="108" column="14" filename="$USER_HOME$/Desktop/RILT/RILT.py" />
-      <jump line="109" column="14" filename="$USER_HOME$/Desktop/RILT/RILT.py" />
-      <jump line="35" column="0" filename="$USER_HOME$/Desktop/LABORE/helper/crop_contin_gui.py" />
-      <jump line="35" column="13" filename="D:/Dropbox/Python/LABORE/helper/crop_contin_gui.py" />
-      <jump line="36" column="23" filename="D:/Dropbox/Python/LABORE/helper/crop_contin_gui.py" />
-      <jump line="38" column="25" filename="D:/Dropbox/Python/LABORE/helper/crop_contin_gui.py" />
-      <jump line="77" column="3" filename="D:/Dropbox/Python/LABORE/helper/crop_contin_gui.py" />
-      <jump line="80" column="0" filename="D:/Dropbox/Python/LABORE/helper/crop_contin_gui.py" />
-      <jump line="107" column="25" filename="D:/Dropbox/Python/LABORE/helper/crop_contin_gui.py" />
       <jump line="131" column="0" filename="D:/Dropbox/Python/LABORE/helper/crop_contin_gui.py" />
       <jump line="13" column="17" filename="D:/Dropbox/Python/LABORE/helper/crop_contin_gui.py" />
       <jump line="57" column="8" filename="D:/Dropbox/Python/LABORE/helper/crop_contin_gui.py" />
@@ -281,7 +272,6 @@
       <jump line="1" column="0" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
       <jump line="13" column="0" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/transition_inversion.py" />
       <jump line="61" column="14" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
-      <jump line="377" column="4" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
       <jump line="57" column="4" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
       <jump line="376" column="83" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
       <jump line="375" column="4" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
@@ -299,51 +289,62 @@
       <jump line="240" column="4" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
       <jump line="231" column="31" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
       <jump line="228" column="16" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
+      <jump line="238" column="18" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
+      <jump line="377" column="4" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
+      <jump line="20" column="0" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/transition_inversion.py" />
+      <jump line="33" column="0" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/transition_inversion.py" />
+      <jump line="24" column="16" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/transition_inversion.py" />
+      <jump line="23" column="78" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/transition_inversion.py" />
+      <jump line="42" column="37" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/transition_inversion.py" />
+      <jump line="29" column="63" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/transition_inversion.py" />
+      <jump line="21" column="0" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/transition_inversion.py" />
+      <jump line="31" column="0" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/transition_inversion.py" />
+      <jump line="40" column="0" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/transition_inversion.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
+        <text encoding="base64">ICAgIGRlZiBfX191bmludmVydChzZWxmLCAKICAgICAgICAgICAgICAgICB0Ml94OiBVbmlvbltucC5uZGFycmF5LCBOb25lXSA9IE5vbmUgLAogICAgICAgICAgICAgICAgIHQyX3k6IFVuaW9uW25wLm5kYXJyYXksIE5vbmVdID0gTm9uZSwKICAgICAgICAgICAgICAgICBjcG1nX3g6IFVuaW9uW25wLm5kYXJyYXksIE5vbmVdID0gTm9uZQogICAgICAgICAgICAgICAgICkgLT4gbnAubmRhcnJheToKICAgICAgICAiIiIKICAgICAgICBQZXJmb3JtcyBhbiBpbnZlcnNpb24gb2YgdGhlIGludmVyc2lvbiB0aGF0IHdhcyBtYWRlIGJ5IENPTlRJTiwgaS5lLiwKICAgICAgICB0YWtlcyBUMiBkYXRhIHRvIHRpbWUgZG9tYWluLiBOZWVkcyBhZGp1c3RpbmcgdG8geW91ciBvcmlnaW5hbCBjdXJ2ZSEgQnkgZGVmYXVsdCB3b3JrcwogICAgICAgIG9uIHRoZSBpbnRlcm5hbCBkYXRhIG9mIHRoZSBjbGFzcywgYnV0IHlvdSBjYW4gcGFzcyBvdGhlciBkYXRhIHRvIHByb2Nlc3MgYWxzby4gSWYgeW91IGRvLAogICAgICAgIHBhc3MgYWxsIHRocmVlIHBhcmFtZXRlcnMhIFRoaXMgdXNlcyBhIG5haXZlIHN1bSB0byBkbyB0aGUgdW5pbnZlcnNpb24uCgogICAgICAgIFBhcmFtZXRlcnMKICAgICAgICAtLS0tLS0tLS0tCiAgICAgICAgdDJfeDogbnAubmRhcnJheQogICAgICAgICAgICBCeSBkZWZhdWx0LCBzZWxmLm91dHB1dF9YLiBUaGUgcG9zc2libGUgVDIgdmFsdWVzIG9mIHlvdXIgZGlzdHJpYnV0aW9uLiAKICAgICAgICB0Ml95OiBucC5uZGFycmF5CiAgICAgICAgICAgIEJ5IGRlZmF1bHQsIHNlbGYub3V0cHV0X1kuIFRoZSBjYWxjdWxhdGVkIGFtcGxpdHVkZXMgb2YgZWFjaCBleHBvbmVudGlhbAogICAgICAgIGNwbWdfeDogbnAubmRhcnJheQogICAgICAgICAgICBCeSBkZWZhdWx0LCBzZWxmLmlucHV0X1guIFRoZSBhY3R1YWwgdGltZSBzcGFuIG9mIHlvdXIgQ1BNRyBleHBlcmltZW50LgoKICAgICAgICBSZXR1cm5zCiAgICAgICAgLS0tLS0tLQogICAgICAgIHlfcmVjb25zdHJ1Y3RlZDogbnAubmRhcnJheQogICAgICAgICAgICBUaGUgQ1BNRyBkZWNheSBjdXJ2ZSwgcmVjb25zdHJ1Y3RlZCBmcm9tIHlvdXIgZXhwb25lbnRpYWwgZGVjYXlzLiBCeSBkZWZhdWx0LCBzZWxmLnVuaW52ZXJ0ZWRfWQogICAgICAgICIiIgogICAgICAgICMgU2VlIGlmIHdpbGwgdXNlIHRoZSBpbnRlcm5hbCBwYXJhbWV0ZXJzCiAgICAgICAgdXNlX2ludGVybmFsID0gRmFsc2UKICAgICAgICBpZiBhbGwoKHQyX3ggPT0gTm9uZSwgdDJfeSA9PSBOb25lLCBjcG1nX3ggPT0gTm9uZSkpOgogICAgICAgICAgICB0Ml94LCB0Ml95LCBjcG1nX3ggPSBzZWxmLm91dHB1dF9YLCBzZWxmLm91dHB1dF9ZLCBzZWxmLmlucHV0X1gKICAgICAgICAgICAgdXNlX2ludGVybmFsID0gVHJ1ZQogICAgICAgIGVsaWYgc3VtKCh0Ml94ID09IE5vbmUsIHQyX3kgPT0gTm9uZSwgY3BtZ194ID09IE5vbmUpKSA8IDM6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoJ011c3QgcGFzcyBlaXRoZXIgdGhyZWUgbmV3IGRhdGEgYXJyYXlzLCBvciBOb25lIScpCiAgICAgICAgCiAgICAgICAgIyBCZWdpbiByZWNvbnN0cnVjdGlvbgogICAgICAgIHlfcmVjb25zdHJ1Y3RlZCA9IG5wLnplcm9zKGNwbWdfeC5zaGFwZSkKICAgICAgICBmb3IgdDIsIGFtcGxpdHVkZSBpbiB6aXAodDJfeCwgdDJfeSk6CiAgICAgICAgICAgIHlfcmVjb25zdHJ1Y3RlZCArPSBleHAoY3BtZ194LCBhbXBsaXR1ZGUsIC0xIC8gdDIsIDApCiAgICAgICAgICAgIAogICAgICAgIGlmIHVzZV9pbnRlcm5hbDoKICAgICAgICAgICAgc2VsZi51bmludmVydGVkX1kgPSB5X3JlY29uc3RydWN0ZWQKICAgICAgICByZXR1cm4geV9yZWNvbnN0cnVjdGVkCg==</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">aW1wb3J0IHBhbmZsdXRlIGFzIHBmCgptZCA9ICdTb21lIG1hcmtkb3duIFtbMjAyMF8wNV8xMF8xMi01Ny0wOV1dIHdpa2lsaW5rIHRvIGNvbnZlcnQnCnBmLmNvbnZlcnRfdGV4dChtZCwgaW5wdXRfZm9ybWF0PSdtYXJrZG93bicpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>int_range</text>
+        <text>np.zeros(cpmg_x.shape)</text>
       </register>
       <register name="/" type="4">
         <text>kernel</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAjIGRpZmZzID0gbnAuZ3JhZGllbnQobnAuZ3JhZGllbnQoR0NWX3ZhbHVlcywgYWxwaGFfcmFuZ2UpLCBhbHBoYV9yYW5nZSkK</text>
+        <text encoding="base64">ICAgIGRlZiBfX191bmludmVydChzZWxmLCAKICAgICAgICAgICAgICAgICB0Ml94OiBVbmlvbltucC5uZGFycmF5LCBOb25lXSA9IE5vbmUgLAogICAgICAgICAgICAgICAgIHQyX3k6IFVuaW9uW25wLm5kYXJyYXksIE5vbmVdID0gTm9uZSwKICAgICAgICAgICAgICAgICBjcG1nX3g6IFVuaW9uW25wLm5kYXJyYXksIE5vbmVdID0gTm9uZQogICAgICAgICAgICAgICAgICkgLT4gbnAubmRhcnJheToKICAgICAgICAiIiIKICAgICAgICBQZXJmb3JtcyBhbiBpbnZlcnNpb24gb2YgdGhlIGludmVyc2lvbiB0aGF0IHdhcyBtYWRlIGJ5IENPTlRJTiwgaS5lLiwKICAgICAgICB0YWtlcyBUMiBkYXRhIHRvIHRpbWUgZG9tYWluLiBOZWVkcyBhZGp1c3RpbmcgdG8geW91ciBvcmlnaW5hbCBjdXJ2ZSEgQnkgZGVmYXVsdCB3b3JrcwogICAgICAgIG9uIHRoZSBpbnRlcm5hbCBkYXRhIG9mIHRoZSBjbGFzcywgYnV0IHlvdSBjYW4gcGFzcyBvdGhlciBkYXRhIHRvIHByb2Nlc3MgYWxzby4gSWYgeW91IGRvLAogICAgICAgIHBhc3MgYWxsIHRocmVlIHBhcmFtZXRlcnMhIFRoaXMgdXNlcyBhIG5haXZlIHN1bSB0byBkbyB0aGUgdW5pbnZlcnNpb24uCgogICAgICAgIFBhcmFtZXRlcnMKICAgICAgICAtLS0tLS0tLS0tCiAgICAgICAgdDJfeDogbnAubmRhcnJheQogICAgICAgICAgICBCeSBkZWZhdWx0LCBzZWxmLm91dHB1dF9YLiBUaGUgcG9zc2libGUgVDIgdmFsdWVzIG9mIHlvdXIgZGlzdHJpYnV0aW9uLiAKICAgICAgICB0Ml95OiBucC5uZGFycmF5CiAgICAgICAgICAgIEJ5IGRlZmF1bHQsIHNlbGYub3V0cHV0X1kuIFRoZSBjYWxjdWxhdGVkIGFtcGxpdHVkZXMgb2YgZWFjaCBleHBvbmVudGlhbAogICAgICAgIGNwbWdfeDogbnAubmRhcnJheQogICAgICAgICAgICBCeSBkZWZhdWx0LCBzZWxmLmlucHV0X1guIFRoZSBhY3R1YWwgdGltZSBzcGFuIG9mIHlvdXIgQ1BNRyBleHBlcmltZW50LgoKICAgICAgICBSZXR1cm5zCiAgICAgICAgLS0tLS0tLQogICAgICAgIHlfcmVjb25zdHJ1Y3RlZDogbnAubmRhcnJheQogICAgICAgICAgICBUaGUgQ1BNRyBkZWNheSBjdXJ2ZSwgcmVjb25zdHJ1Y3RlZCBmcm9tIHlvdXIgZXhwb25lbnRpYWwgZGVjYXlzLiBCeSBkZWZhdWx0LCBzZWxmLnVuaW52ZXJ0ZWRfWQogICAgICAgICIiIgogICAgICAgICMgU2VlIGlmIHdpbGwgdXNlIHRoZSBpbnRlcm5hbCBwYXJhbWV0ZXJzCiAgICAgICAgdXNlX2ludGVybmFsID0gRmFsc2UKICAgICAgICBpZiBhbGwoKHQyX3ggPT0gTm9uZSwgdDJfeSA9PSBOb25lLCBjcG1nX3ggPT0gTm9uZSkpOgogICAgICAgICAgICB0Ml94LCB0Ml95LCBjcG1nX3ggPSBzZWxmLm91dHB1dF9YLCBzZWxmLm91dHB1dF9ZLCBzZWxmLmlucHV0X1gKICAgICAgICAgICAgdXNlX2ludGVybmFsID0gVHJ1ZQogICAgICAgIGVsaWYgc3VtKCh0Ml94ID09IE5vbmUsIHQyX3kgPT0gTm9uZSwgY3BtZ194ID09IE5vbmUpKSA8IDM6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoJ011c3QgcGFzcyBlaXRoZXIgdGhyZWUgbmV3IGRhdGEgYXJyYXlzLCBvciBOb25lIScpCiAgICAgICAgCiAgICAgICAgIyBCZWdpbiByZWNvbnN0cnVjdGlvbgogICAgICAgIHlfcmVjb25zdHJ1Y3RlZCA9IG5wLnplcm9zKGNwbWdfeC5zaGFwZSkKICAgICAgICBmb3IgdDIsIGFtcGxpdHVkZSBpbiB6aXAodDJfeCwgdDJfeSk6CiAgICAgICAgICAgIHlfcmVjb25zdHJ1Y3RlZCArPSBleHAoY3BtZ194LCBhbXBsaXR1ZGUsIC0xIC8gdDIsIDApCiAgICAgICAgICAgIAogICAgICAgIGlmIHVzZV9pbnRlcm5hbDoKICAgICAgICAgICAgc2VsZi51bmludmVydGVkX1kgPSB5X3JlY29uc3RydWN0ZWQKICAgICAgICByZXR1cm4geV9yZWNvbnN0cnVjdGVkCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
+        <text encoding="base64">ICAgICAgICAjIEJlZ2luIHJlY29uc3RydWN0aW9uCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIGRlZiBfdW5pbnZlcnQoc2VsZikgLT4gTm9uZToKICAgICAgICAiIiIKICAgICAgICBQZXJmb3JtcyBhbiBpbnZlcnNpb24gb2YgdGhlIGludmVyc2lvbiB0aGF0IHdhcyBtYWRlIGJ5IENPTlRJTiwgaS5lLiwKICAgICAgICBnb2VzIGJhY2sgdG8gdGhlIHRpbWUgZG9tYWluLiBOZWVkcyBhZGp1c3RpbmcgdG8geW91ciBvcmlnaW5hbCBjdXJ2ZSEKCiAgICAgICAgUmV0dXJucwogICAgICAgIC0tLS0tLS0KICAgICAgICB5X3JlY29uc3RydWN0ZWQ6IG5wLm5kYXJyYXkKICAgICAgICAgICAgVGhlIENQTUcgZGVjYXkgY3VydmUsIHJlY29uc3RydWN0ZWQgZnJvbSB5b3VyIGV4cG9uZW50aWFsIGRlY2F5cy4KICAgICAgICAiIiIKICAgICAgICB5X3JlY29uc3RydWN0ZWQgPSBucC56ZXJvcyhjcG1nX3guc2hhcGUpCiAgICAgICAgZm9yIHQyLCBhbXBsaXR1ZGUgaW4gemlwKHQyX3gsIHQyX3kpOgogICAgICAgICAgICB5X3JlY29uc3RydWN0ZWQgKz0gZXhwKGNwbWdfeCwgYW1wbGl0dWRlLCAtMSAvIHQyLCAwKQogICAgICAgIHJldHVybiB5X3JlY29uc3RydWN0ZWQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIHRlc3QoYTogc3RyLCBiOnN0cikgLT4gc3RyOgogICAgcmV0dXJuIGErYgoKCnByaW50KHRlc3QoMSwgMikpCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXNlX2ludGVybmFsID0gVHJ1ZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBudW1weS50eXBpbmcgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">bnAudHlwaW5nLgo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">QnkgcGFzc2luZwogICAgICAgIGxlc3MgdGhhbiB0aGUgdGhyZWUgcmVxdWlyZWQgcGFyYW1ldGVycywgeW91IHJpc2sgdXNpbmcg</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+      <register name="6" type="4">
+        <text encoding="base64">SWYgb25seQogICAgICAgIG9uZSBwYXJhbWV0ZXIgb3IgYW5vdGhlciBpcyBwYXNzZWQsIHRoZW4gd2lsbCA=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBhbGwodDJfeCA9PSBOb25lLCB0Ml95ID09IE5vbmUsIGNwbWdfeCA9PSBOb25lKToKICAgICAgICAgICAgcGFzcwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIGRpZmZzID0gbnAuZ3JhZGllbnQobnAuZ3JhZGllbnQoR0NWX3ZhbHVlcywgYWxwaGFfcmFuZ2UpLCBhbHBoYV9yYW5nZSkK</text>
+      <register name="8" type="4">
+        <text encoding="base64">WW91IGNhbgogICAgICAgIHByb3ZpZGUgdGhlIHZhbHVlcyB0byB0aGUgcGFyYW1ldGVycyA=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkaWZmcyA9IG5wLmdyYWRpZW50KG5wLmdyYWRpZW50KGFscGhhX3JhbmdlLCBHQ1ZfdmFsdWVzKSwgYWxwaGFfcmFuZ2UpCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">SWYgeW91IGRvbid0IHByb3ZpZGUKICAgICAgICB2YWx1ZXMgdG8gdGhlIHBhcmFtZXRlcnMsIGl0IHdpbGwgY29uc2lkZXIgdGhlIA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
