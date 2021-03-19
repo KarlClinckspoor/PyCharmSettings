@@ -106,7 +106,7 @@
       <file name="/a.dummy" timestamp="1615571867056">
         <mark key="[" line="0" column="1" />
       </file>
-      <file name="/test_GCV" timestamp="1615582691505">
+      <file name="/test_GCV" timestamp="1616163301081">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Testing" timestamp="1590438789544">
@@ -132,12 +132,12 @@
         <mark key="." line="31" column="31" />
         <mark key="^" line="31" column="27" />
       </file>
-      <file name="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/transition_inversion.py" timestamp="1616162282162">
-        <mark key="'" line="163" column="0" />
-        <mark key="[" line="163" column="53" />
-        <mark key="]" line="163" column="58" />
-        <mark key="^" line="163" column="58" />
-        <mark key="." line="163" column="57" />
+      <file name="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/transition_inversion.py" timestamp="1616163194976">
+        <mark key="'" line="97" column="49" />
+        <mark key="[" line="113" column="81" />
+        <mark key="]" line="114" column="79" />
+        <mark key="^" line="114" column="79" />
+        <mark key="." line="114" column="78" />
       </file>
       <file name="G:/KarlOwncloud/Repos/FilmeTese/main.py" timestamp="1611793722807">
         <mark key="[" line="86" column="0" />
@@ -158,18 +158,18 @@
         <mark key="^" line="322" column="38" />
         <mark key="." line="322" column="38" />
       </file>
-      <file name="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/tests/test_GCV.py" timestamp="1615581709500">
+      <file name="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/tests/test_GCV.py" timestamp="1616163564759">
         <mark key="'" line="55" column="0" />
-        <mark key="[" line="16" column="12" />
-        <mark key="]" line="16" column="12" />
-        <mark key="." line="16" column="12" />
-        <mark key="^" line="17" column="19" />
+        <mark key="[" line="27" column="37" />
+        <mark key="]" line="27" column="37" />
+        <mark key="." line="27" column="37" />
+        <mark key="^" line="24" column="67" />
       </file>
-      <file name="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" timestamp="1616162232632">
-        <mark key="'" line="102" column="0" />
+      <file name="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" timestamp="1616162880803">
+        <mark key="'" line="191" column="0" />
         <mark key="j" line="310" column="0" />
-        <mark key="[" line="131" column="0" />
-        <mark key="]" line="156" column="52" />
+        <mark key="[" line="285" column="0" />
+        <mark key="]" line="297" column="38" />
         <mark key="." line="323" column="45" />
         <mark key="^" line="323" column="45" />
       </file>
@@ -200,12 +200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="139" column="19" filename="D:/Dropbox/Python/LABORE/helper/crop_contin_gui.py" />
-      <jump line="130" column="8" filename="D:/Dropbox/Python/LABORE/helper/crop_contin_gui.py" />
-      <jump line="172" column="25" filename="D:/Dropbox/Python/LABORE/helper/crop_contin_gui.py" />
-      <jump line="4" column="16" filename="D:/Dropbox/Python/LABORE/helper/crop_contin_gui.py" />
-      <jump line="193" column="4" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
-      <jump line="7" column="0" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
       <jump line="104" column="38" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
       <jump line="192" column="4" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
       <jump line="5" column="22" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
@@ -300,51 +294,57 @@
       <jump line="77" column="0" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
       <jump line="102" column="0" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
       <jump line="162" column="0" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/transition_inversion.py" />
+      <jump line="184" column="0" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/transition_inversion.py" />
+      <jump line="167" column="19" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
+      <jump line="175" column="0" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
+      <jump line="186" column="0" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
+      <jump line="191" column="0" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
+      <jump line="97" column="49" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/transition_inversion.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>None</text>
+        <text>df[&quot;I&quot;].iloc[crop_amount:]</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">aW1wb3J0IHBhbmZsdXRlIGFzIHBmCgptZCA9ICdTb21lIG1hcmtkb3duIFtbMjAyMF8wNV8xMF8xMi01Ny0wOV1dIHdpa2lsaW5rIHRvIGNvbnZlcnQnCnBmLmNvbnZlcnRfdGV4dChtZCwgaW5wdXRfZm9ybWF0PSdtYXJrZG93bicpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>None</text>
+        <text>df[&quot;I&quot;].iloc[crop_amount:]</text>
       </register>
       <register name="/" type="4">
         <text>kernel</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVmIGFkanVzdF91bmludmVydGVkX3RvX29yaWdpbmFsX2ZpdChjcG1nX3ksIHVuaW52ZXJ0ZWRfeSk6CiAgICAiIiJTbGlkZXMgdXAvZG93biB0aGUgdW5pbnZlcnRlZCBjdXJ2ZSB0byBtYXRjaCB0aGUgb3JpZ2luYWwgQ1BNRyBkZWNheQogICAgY3VydmUuIERvZXMgc28gYnkgbWluaW1pemluZyB0aGUgdG90YWwgZXJyb3IgYmV0d2VlbiBvcmlnaW5hbCBkYXRhCiAgICBhbmQgcmVjb25zdHJ1Y3RlZCBkYXRhLgoKICAgIFBhcmFtZXRlcnMKICAgIC0tLS0tLS0tLS0KICAgIGNwbWdfeTogbnAubmRhcnJheQogICAgICAgIFRoZSB5IHZhbHVlcyAoaW50ZW5zaXRpZXMpIG9mIHRoZSBDUE1HIGRlY2F5CiAgICB1bmludmVydGVkX3k6IG5wLm5kYXJyYXkKICAgICAgICBUaGUgeSB2YWx1ZXMgKGludGVuc2l0aWVzKSBvZiB0aGUgcmVjb25zdHJ1Y3RlZCAodW5pbnZlcnRlZCkgQ1BNRyBkZWNheQoKICAgIFJldHVybnMKICAgIC0tLS0tLS0KICAgIFNoaWZ0ZWQgbnVtcHkgYXJyYXkgdGhhdCBtb3N0IGNsb3NlbHkgbWF0Y2hlcyB0aGUgb3JpZ2luYWwKICAgICIiIgogICAgZnJvbSBsbWZpdCBpbXBvcnQgbWluaW1pemUsIFBhcmFtZXRlcnMKCiAgICBkZWYgbWluX2Z1bihmYWN0b3IsIGNwbWdfeSwgdW5pbnZlcnRlZF95KToKICAgICAgICByZXR1cm4gY3BtZ195IC0gdW5pbnZlcnRlZF95ICogZmFjdG9yCgogICAgcGFyYW1zID0gUGFyYW1ldGVycygpCiAgICBwYXJhbXMuYWRkKCJmYWN0b3IiLCBtaW49MCkKCiAgICBmaXQgPSBtaW5pbWl6ZShtaW5fZnVuLCBwYXJhbXMsIGFyZ3M9KGNwbWdfeSwgdW5pbnZlcnRlZF95KSwgbWV0aG9kPSJuZWxkZXIiKQogICAgcmV0dXJuIHVuaW52ZXJ0ZWRfeSAqIGZpdC5wYXJhbXNbImZhY3RvciJdLnZhbHVlCg==</text>
+        <text encoding="base64">ICAgIGRlZiBHQ1YoCiAgICAgICAga2VybmVsOiBucC5uZGFycmF5LCBzb2x1dGlvbl9hbHBoYTogbnAubmRhcnJheSwgZGF0YTogbnAubmRhcnJheSwgYWxwaGE6IGZsb2F0CiAgICApIC0+IGZsb2F0OgogICAgICAgIG51bWVyYXRvciA9IG5wLmxpbmFsZy5ub3JtKGtlcm5lbCBAIHNvbHV0aW9uX2FscGhhIC0gZGF0YSwgMikgKiogMgogICAgICAgIGluZmx1ZW5jZV9tYXRyaXggPSAoCiAgICAgICAgICAgIGtlcm5lbAogICAgICAgICAgICBAIG5wLmxpbmFsZy5pbnYoa2VybmVsLlQgQCBrZXJuZWwgKyBhbHBoYSAqIG5wLmV5ZShrZXJuZWwuc2hhcGVbMV0pKQogICAgICAgICAgICBAIGtlcm5lbC5UCiAgICAgICAgKQogICAgICAgIGRlbm9taW5hdG9yID0gKAogICAgICAgICAgICBucC50cmFjZShucC5leWUoaW5mbHVlbmNlX21hdHJpeC5zaGFwZVswXSkgLSBpbmZsdWVuY2VfbWF0cml4KSAqKiAyCiAgICAgICAgKQogICAgICAgIHJldHVybiBudW1lcmF0b3IgLyBkZW5vbWluYXRvcgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBQYXJhbWV0ZXJzCiAgICAgICAgLS0tLS0tLS0tLQogICAgICAgIGNwbWdfeTogbnAubmRhcnJheQogICAgICAgICAgICBUaGUgeSB2YWx1ZXMgKGludGVuc2l0aWVzKSBvZiB0aGUgQ1BNRyBkZWNheQogICAgICAgIHVuaW52ZXJ0ZWRfeTogbnAubmRhcnJheQogICAgICAgICAgICBUaGUgeSB2YWx1ZXMgKGludGVuc2l0aWVzKSBvZiB0aGUgcmVjb25zdHJ1Y3RlZCAodW5pbnZlcnRlZCkgQ1BNRyBkZWNheQo=</text>
+        <text encoding="base64">ICAgICAgICBSZXR1cm5zCiAgICAgICAgLS0tLS0tLQogICAgICAgIG5wLm5kYXJyYXkKICAgICAgICAgICAgVGhlIGludmVydGVkIGRhdGEgdGhhdCBzYXRpc2ZpZXMgdGhlIG1pbmltaXphdGlvbgoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIGludmVyc2lvbl9tZXRob2Q9J1Rpa2hvbm92JywKICAgICAgICAjIG9wdGltaXphdGlvbl9tZXRob2Q9Tm9uZSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBQYXJhbWV0ZXJzCiAgICAgICAgLS0tLS0tLS0tLQogICAgICAgIGtlcm5lbDogbnAubmRhcnJheQogICAgICAgICAgICBUaGUga2VybmVsIEEgdXNlZCB0byBldmFsdWF0ZSB0aGUgbWluaW1pemF0aW9uLiBGb3IgTk1SLCBpdCdzIGNvbXBvc2VkIG9mIG11bHRpcGxlIGV4cG9uZW50aWFsCiAgICAgICAgICAgIGRlY2F5cyBzaWRlIGJ5IHNpZGUuIFNoYXBlIGlzIChOdW0gZWNob2VzIHggTnVtIGRpc2NyZXRpemVkIFQyKQogICAgICAgIGFscGhhOiBmbG9hdAogICAgICAgICAgICBUaGUgcmVndWxhcml6YXRpb24gcGFyYW1ldGVyLiBUaGUgaGlnaGVyIHRoaXMgaXMsIHRoZSBzbW9vdGhlciB0aGUgZGlzdHJpYnV0aW9uLiBPbiB0aGUgb3RoZXIgaGFuZCwKICAgICAgICAgICAgaWYgdGhpcyBhcHByb2FjaGVzIDAsIHRoZSBwcm9ibGVtIHJldHVybnMgdG8gYSAobm9uIG5lZ2F0aXZlKSBsZWFzdCBzcXVhcmVzLgogICAgICAgIGRhdGE6IG5wLm5kYXJyYXkKICAgICAgICAgICAgVGhlIGRhdGEgdG8gYmUgaW52ZXJ0ZWQuIEhhcyB0byBoYXZlIHNoYXBlIChOdW0gZWNob2VzIHggMSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAga2VybmVsOiBucC5uZGFycmF5LCBhbHBoYTogZmxvYXQsIGRhdGE6IG5wLm5kYXJyYXkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBvcHRpCg==</text>
+        <text encoding="base64">ICAgICAgICBQYXJhbWV0ZXJzCiAgICAgICAgLS0tLS0tLS0tLQogICAgICAgIGNwbWdfeTogbnAubmRhcnJheQogICAgICAgICAgICBUaGUgeSB2YWx1ZXMgKGludGVuc2l0aWVzKSBvZiB0aGUgQ1BNRyBkZWNheQogICAgICAgIHVuaW52ZXJ0ZWRfeTogbnAubmRhcnJheQogICAgICAgICAgICBUaGUgeSB2YWx1ZXMgKGludGVuc2l0aWVzKSBvZiB0aGUgcmVjb25zdHJ1Y3RlZCAodW5pbnZlcnRlZCkgQ1BNRyBkZWNheQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICBSZXR1cm5zCiAgICAgICAgLS0tLS0tLQoK</text>
+        <text encoding="base64">ICAgICAgICAjIGludmVyc2lvbl9tZXRob2Q9J1Rpa2hvbm92JywKICAgICAgICAjIG9wdGltaXphdGlvbl9tZXRob2Q9Tm9uZSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4ga2VybmVsCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
