@@ -14,6 +14,7 @@
         <entry>df</entry>
         <entry>line2</entry>
         <entry>'</entry>
+        <entry>kernel</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3Jlc2V0L21vcmVfcmlnaHQ=</entry>
@@ -71,7 +72,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed CLOSE_BRACKET</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -82,168 +83,265 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1611793858401">
+      <file name="$USER_HOME$/Desktop/LABORE/tests/test_GCV2.py" timestamp="1616174126086">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="21" column="49" />
+      </file>
+      <file name="/Python Console" timestamp="1616176462015">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="2" />
+        <mark key="^" line="0" column="2" />
+        <mark key="." line="0" column="2" />
+      </file>
+      <file name="/a.dummy" timestamp="1616164986683">
+        <mark key="[" line="0" column="1" />
+      </file>
+      <file name="/test_GCV" timestamp="1616173454189">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/untitled1/teste.py" timestamp="1613066301640">
+        <mark key="'" line="44" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="44" column="42" />
+        <mark key="." line="8" column="22" />
+        <mark key="^" line="8" column="22" />
+      </file>
+      <file name="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/.gitignore" timestamp="1615554331105">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="4" />
+        <mark key="." line="3" column="4" />
+        <mark key="^" line="3" column="4" />
+      </file>
+      <file name="$USER_HOME$/Desktop/LABORE/labore/inversion_class.py" timestamp="1616176870392">
+        <mark key="'" line="320" column="4" />
+        <mark key="[" line="208" column="49" />
+        <mark key="]" line="209" column="39" />
+        <mark key="." line="209" column="38" />
+        <mark key="^" line="209" column="39" />
+      </file>
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1616173382663">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="9" column="15" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/helper/crop_contin_gui.py" timestamp="1615554152329">
+        <mark key="'" line="322" column="8" />
+        <mark key="[" line="322" column="16" />
+        <mark key="]" line="322" column="38" />
+        <mark key="^" line="322" column="38" />
+        <mark key="." line="322" column="38" />
+      </file>
+      <file name="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/tests/test_GCV.py" timestamp="1616163658683">
+        <mark key="'" line="55" column="0" />
+        <mark key="[" line="29" column="12" />
+        <mark key="]" line="29" column="12" />
+        <mark key="." line="29" column="12" />
+        <mark key="^" line="27" column="14" />
+      </file>
+      <file name="/test_GCV_class" timestamp="1616176545763">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1616175786612">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/Dropbox/Python/ZettlrOrgFilter/simple_filter.py" timestamp="1590438339030">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="14" column="10" />
-      </file>
-      <file name="D:/Dropbox/Python/LABORE/helper/crop_contin_gui.py" timestamp="1582663764194">
-        <mark key="'" line="174" column="25" />
-        <mark key="[" line="71" column="18" />
-        <mark key="]" line="71" column="18" />
-        <mark key="." line="71" column="18" />
-        <mark key="^" line="72" column="59" />
-      </file>
-      <file name="/Python Console" timestamp="1611791881318">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="/Testing" timestamp="1590438789544">
+      <file name="/tikhonov_test" timestamp="1615569157477">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1590438946383">
+      <file name="$USER_HOME$/Desktop/LABORE/tests/test_GCV_class.py" timestamp="1616176673210">
+        <mark key="'" line="0" column="14" />
+        <mark key="[" line="50" column="22" />
+        <mark key="]" line="51" column="12" />
+        <mark key="." line="51" column="11" />
+        <mark key="^" line="51" column="12" />
+      </file>
+      <file name="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/tests/test_inversion.py" timestamp="1615569148001">
+        <mark key="'" line="0" column="27" />
+        <mark key="[" line="44" column="56" />
+        <mark key="]" line="31" column="31" />
+        <mark key="." line="31" column="31" />
+        <mark key="^" line="31" column="27" />
+      </file>
+      <file name="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/transition_inversion.py" timestamp="1616164945239">
+        <mark key="'" line="14" column="4" />
+        <mark key="[" line="210" column="27" />
+        <mark key="]" line="210" column="29" />
+        <mark key="^" line="210" column="29" />
+        <mark key="." line="210" column="28" />
+      </file>
+      <file name="$USER_HOME$/Desktop/LABORE/labore/models.py" timestamp="1616176881487">
+        <mark key="'" line="20" column="0" />
+      </file>
+      <file name="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/tests/test_GCV_class.py" timestamp="1616173475152">
+        <mark key="[" line="0" column="23" />
+        <mark key="]" line="0" column="24" />
+        <mark key="^" line="0" column="24" />
+        <mark key="." line="0" column="23" />
+      </file>
+      <file name="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" timestamp="1616164419692">
+        <mark key="j" line="310" column="0" />
+        <mark key="[" line="270" column="0" />
+        <mark key="]" line="280" column="58" />
+        <mark key="." line="299" column="0" />
+      </file>
+      <file name="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/mypy.ini" timestamp="1616156550708">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/RILT/RILT.py" timestamp="1581463942509">
-        <mark key="'" line="109" column="14" />
-        <mark key="[" line="380" column="17" />
-        <mark key="]" line="380" column="17" />
-        <mark key="." line="380" column="17" />
-        <mark key="^" line="162" column="14" />
-      </file>
-      <file name="D:/Dropbox/Zettelkasten_convert/obs.md" timestamp="1589125618763">
-        <mark key="[" line="3" column="64" />
-        <mark key="]" line="4" column="39" />
-        <mark key="^" line="4" column="39" />
-        <mark key="." line="4" column="39" />
-      </file>
-      <file name="D:/Dropbox/Zettelkasten_convert/zettlrmd_to_org_roam.py" timestamp="1589126168883">
-        <mark key="[" line="2" column="15" />
-        <mark key="]" line="3" column="10" />
-        <mark key="^" line="3" column="10" />
-        <mark key="." line="3" column="10" />
-      </file>
-      <file name="D:/Dropbox/Python/ZettlrOrgFilter/teste.md" timestamp="1590437901221">
-        <mark key="[" line="0" column="58" />
-        <mark key="]" line="0" column="57" />
-        <mark key="." line="0" column="56" />
-        <mark key="^" line="0" column="57" />
-      </file>
-      <file name="G:/KarlOwncloud/Repos/FilmeTese/main.py" timestamp="1611793722807">
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="^" line="77" column="25" />
-        <mark key="." line="86" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/RILT/MWE.py" timestamp="1582656842406">
-        <mark key="[" line="77" column="114" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
-        <mark key="^" line="78" column="0" />
-      </file>
-      <file name="D:/Dropbox/Python/LABORE/helper/crop_contin.py" timestamp="1582663412933">
-        <mark key="[" line="202" column="0" />
-        <mark key="]" line="232" column="29" />
-      </file>
-      <file name="G:/KarlOwncloud/Repos/FilmeTese/create_figure.py" timestamp="1611793844411">
-        <mark key="'" line="458" column="0" />
-        <mark key="[" line="458" column="0" />
-        <mark key="]" line="458" column="0" />
-        <mark key="." line="458" column="0" />
-      </file>
-      <file name="D:/Dropbox/Python/ZettlrOrgFilter/filter.py" timestamp="1590438595783">
-        <mark key="[" line="32" column="11" />
-        <mark key="]" line="32" column="25" />
-        <mark key="." line="32" column="24" />
-        <mark key="^" line="32" column="25" />
-      </file>
-      <file name="D:/Dropbox/Python/ZettlrOrgFilter/zettlr_md_to_org_filter.py" timestamp="1590437958538">
-        <mark key="'" line="0" column="15" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="18" column="12" />
-        <mark key="^" line="18" column="13" />
-      </file>
-      <file name="D:/Dropbox/Python/ZettlrOrgFilter/test_filter.bat" timestamp="1590438258432">
-        <mark key="[" line="0" column="6" />
-        <mark key="]" line="0" column="50" />
-        <mark key="." line="0" column="49" />
-        <mark key="^" line="0" column="50" />
-      </file>
-      <file name="$USER_HOME$/Desktop/LABORE/helper/crop_contin_gui.py" timestamp="1582657069568">
-        <mark key="'" line="34" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="34" column="10" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="1" column="34" />
+        <mark key="." line="1" column="33" />
+        <mark key="^" line="1" column="34" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="0" filename="D:/Dropbox/Python/ZettlrOrgFilter/zettlr_md_to_org_filter.py" />
-      <jump line="0" column="15" filename="D:/Dropbox/Python/ZettlrOrgFilter/zettlr_md_to_org_filter.py" />
-      <jump line="450" column="4" filename="G:/KarlOwncloud/Repos/FilmeTese/create_figure.py" />
-      <jump line="452" column="33" filename="G:/KarlOwncloud/Repos/FilmeTese/create_figure.py" />
-      <jump line="459" column="12" filename="G:/KarlOwncloud/Repos/FilmeTese/create_figure.py" />
-      <jump line="458" column="0" filename="G:/KarlOwncloud/Repos/FilmeTese/create_figure.py" />
+      <jump line="13" column="19" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/ui_files/crop_contin.py" />
+      <jump line="320" column="8" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/helper/crop_contin_gui.py" />
+      <jump line="8" column="22" filename="$USER_HOME$/PycharmProjects/untitled1/teste.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/untitled1/teste.py" />
+      <jump line="44" column="0" filename="$USER_HOME$/PycharmProjects/untitled1/teste.py" />
+      <jump line="202" column="43" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
+      <jump line="300" column="7" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
+      <jump line="9" column="11" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
+      <jump line="0" column="27" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/tests/test_inversion.py" />
+      <jump line="234" column="20" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
+      <jump line="317" column="0" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
+      <jump line="346" column="24" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
+      <jump line="267" column="7" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
+      <jump line="237" column="20" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
+      <jump line="235" column="12" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
+      <jump line="24" column="20" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/tests/test_GCV.py" />
+      <jump line="282" column="17" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
+      <jump line="22" column="19" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/tests/test_GCV.py" />
+      <jump line="311" column="67" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
+      <jump line="28" column="79" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/tests/test_GCV.py" />
+      <jump line="37" column="0" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/tests/test_GCV.py" />
+      <jump line="52" column="30" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/tests/test_GCV.py" />
+      <jump line="53" column="6" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/tests/test_GCV.py" />
+      <jump line="26" column="0" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/tests/test_GCV.py" />
+      <jump line="55" column="0" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/tests/test_GCV.py" />
+      <jump line="326" column="50" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
+      <jump line="327" column="39" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
+      <jump line="369" column="4" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
+      <jump line="1" column="0" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
+      <jump line="13" column="0" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/transition_inversion.py" />
+      <jump line="57" column="4" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
+      <jump line="376" column="83" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
+      <jump line="375" column="4" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
+      <jump line="374" column="13" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
+      <jump line="351" column="75" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
+      <jump line="305" column="23" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
+      <jump line="303" column="55" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
+      <jump line="292" column="14" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
+      <jump line="291" column="28" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
+      <jump line="290" column="12" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
+      <jump line="288" column="35" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
+      <jump line="286" column="8" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
+      <jump line="258" column="12" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
+      <jump line="257" column="4" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
+      <jump line="240" column="4" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
+      <jump line="231" column="31" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
+      <jump line="228" column="16" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
+      <jump line="238" column="18" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
+      <jump line="377" column="4" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
+      <jump line="33" column="0" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/transition_inversion.py" />
+      <jump line="24" column="16" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/transition_inversion.py" />
+      <jump line="23" column="78" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/transition_inversion.py" />
+      <jump line="42" column="37" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/transition_inversion.py" />
+      <jump line="29" column="63" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/transition_inversion.py" />
+      <jump line="21" column="0" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/transition_inversion.py" />
+      <jump line="31" column="0" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/transition_inversion.py" />
+      <jump line="40" column="0" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/transition_inversion.py" />
+      <jump line="68" column="78" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/transition_inversion.py" />
+      <jump line="72" column="0" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/transition_inversion.py" />
+      <jump line="124" column="0" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/transition_inversion.py" />
+      <jump line="20" column="25" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/transition_inversion.py" />
+      <jump line="61" column="19" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
+      <jump line="77" column="0" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
+      <jump line="102" column="0" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
+      <jump line="162" column="0" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/transition_inversion.py" />
+      <jump line="184" column="0" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/transition_inversion.py" />
+      <jump line="167" column="19" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
+      <jump line="175" column="0" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
+      <jump line="186" column="0" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
+      <jump line="191" column="0" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
+      <jump line="97" column="49" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/transition_inversion.py" />
+      <jump line="285" column="11" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
+      <jump line="304" column="0" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/transition_inversion.py" />
+      <jump line="305" column="0" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/transition_inversion.py" />
+      <jump line="14" column="4" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/transition_inversion.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="19" column="0" filename="$USER_HOME$/Desktop/LABORE/tests/test_GCV_class.py" />
+      <jump line="15" column="19" filename="$USER_HOME$/Desktop/LABORE/tests/test_GCV_class.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/Desktop/LABORE/tests/test_GCV_class.py" />
+      <jump line="5" column="28" filename="$USER_HOME$/Desktop/LABORE/tests/test_GCV_class.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/Desktop/LABORE/tests/test_GCV_class.py" />
+      <jump line="208" column="50" filename="$USER_HOME$/Desktop/LABORE/labore/inversion_class.py" />
+      <jump line="9" column="16" filename="$USER_HOME$/Desktop/LABORE/tests/test_GCV_class.py" />
+      <jump line="39" column="19" filename="$USER_HOME$/Desktop/LABORE/tests/test_GCV_class.py" />
+      <jump line="35" column="0" filename="$USER_HOME$/Desktop/LABORE/tests/test_GCV_class.py" />
+      <jump line="41" column="9" filename="$USER_HOME$/Desktop/LABORE/tests/test_GCV_class.py" />
+      <jump line="0" column="14" filename="$USER_HOME$/Desktop/LABORE/tests/test_GCV_class.py" />
+      <jump line="205" column="16" filename="$USER_HOME$/Desktop/LABORE/labore/inversion_class.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/LABORE/labore/inversion_class.py" />
+      <jump line="315" column="21" filename="$USER_HOME$/Desktop/LABORE/labore/inversion_class.py" />
+      <jump line="320" column="4" filename="$USER_HOME$/Desktop/LABORE/labore/inversion_class.py" />
+      <jump line="39" column="4" filename="$USER_HOME$/Desktop/LABORE/labore/models.py" />
+      <jump line="60" column="0" filename="$USER_HOME$/Desktop/LABORE/labore/models.py" />
+      <jump line="58" column="0" filename="$USER_HOME$/Desktop/LABORE/labore/models.py" />
+      <jump line="53" column="0" filename="$USER_HOME$/Desktop/LABORE/labore/models.py" />
+      <jump line="42" column="0" filename="$USER_HOME$/Desktop/LABORE/labore/models.py" />
+      <jump line="38" column="0" filename="$USER_HOME$/Desktop/LABORE/labore/models.py" />
+      <jump line="34" column="0" filename="$USER_HOME$/Desktop/LABORE/labore/models.py" />
+      <jump line="29" column="0" filename="$USER_HOME$/Desktop/LABORE/labore/models.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/Desktop/LABORE/labore/models.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXR0cmlidXRlcyAoTGlzdFtzdHJdLCBvcHRpb25hbCk6IFRoZSBhdHRyaWJ1dGVzIG9mIHRoZSBTdGF0cyBjbGFzcyB0aGF0IHdpbGwgYmUgcGxvdHRlZAo=</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">aW1wb3J0IHBhbmZsdXRlIGFzIHBmCgptZCA9ICdTb21lIG1hcmtkb3duIFtbMjAyMF8wNV8xMF8xMi01Ny0wOV1dIHdpa2lsaW5rIHRvIGNvbnZlcnQnCnBmLmNvbnZlcnRfdGV4dChtZCwgaW5wdXRfZm9ybWF0PSdtYXJrZG93bicpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>full_text</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>attributes</text>
+        <text>kernel</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHBhbmZsdXRlIGFzIHBmCmltcG9ydCByZQppbXBvcnQgZ2xvYgoKd2lraWxpbmtfcGF0dGVybiA9IHJlLmNvbXBpbGUocidcW1xbKFswLTlfLV0rKVxdXF0nKQp0YWdfcGF0dGVybiA9IHJlLmNvbXBpbGUocicoXGR7NH1fXGR7Mn1fXGR7Mn1fXGR7Mn0tXGR7Mn0tXGR7Mn0pJykKCnNhbXBsZV9maWxlcyA9ICIiIjIwMjBfMDVfMDVfMTYtMDUtMjQgM0IxQiBMb2dhcml0aG1zLm1kCjIwMjBfMDVfMDhfMTYtMDItNTAgM0IxQiBuYXR1cmFsIGxvZy5tZAoyMDIwXzA1XzA4XzE4LTU4LTM4IGFydGljbGUgbmlrbGFzIGx1aG1hbm4ubWQKMjAyMF8wNV8wOV8xNi0xMS0yNSBCb29rIG1ha2luZy5tZAoyMDIwXzA1XzEwXzEyLTU3LTA5IHBhbmRvYyBhbmQgdmVuZG9yIGxvY2staW4ubWQKMjAyMF8wNV8xMl8xNi0wMy0wOCAzQjFCIFRldHJhdGlvbi5tZAoyMDIwXzA1XzE1XzE2LTA3LTQyIDNCMUIgaSBwb3dlciBpLm1kCjIwMjBfMDVfMTZfMjItNDktMjkgR2l0IGZvciBhY2FkZW1pY3MubWQKMjAyMF8wNV8yMV8yMC0yOS0xMiBWaW0gQm9vayBhbm5vdGF0aW9ucy5tZAoyMDIwXzA1XzI0XzE4LTM4LTIyIFNwaW5uaW5nIG93biBzcGFjZW1hY3MtbGl0ZS5tZCIiIi5zcGxpdCgnXG4nKQoKc2FtcGxlX21kID0gJ1NvbWUgbWFya2Rvd24gW1syMDIwXzA1XzEwXzEyLTU3LTA5XV0gd2lraWxpbmsgdG8gY29udmVydCcKc2FtcGxlX29yZyA9ICdTb21lIG9yZyBbW2ZpbGU6dGhpc19maWxlLm1kXVtBbHQgdGV4dF1dJwpjb252ZXJ0ZWRfdGV4dCA9IHBmLmNvbnZlcnRfdGV4dChzYW1wbGVfbWQsIGlucHV0X2Zvcm1hdD0nbWFya2Rvd24nKQpjb252ZXJ0ZWRfdGV4dF9vcmcgPSBwZi5jb252ZXJ0X3RleHQoc2FtcGxlX29yZywgaW5wdXRfZm9ybWF0PSdvcmcnKQpkb2N1bWVudCA9IHBmLkRvYygqY29udmVydGVkX3RleHQpCgpkZWYgY29udmVydF9saW5rKGVsZW0sIGRvYyk6CiAgICBpZiBpc2luc3RhbmNlKGVsZW0sIChwZi5TdHIpKSBhbmQgd2lraWxpbmtfcGF0dGVybi5maW5kYWxsKGVsZW0udGV4dCk6CiAgICAgICAgaWRfID0gd2lraWxpbmtfcGF0dGVybi5maW5kYWxsKGVsZW0udGV4dClbMF0KICAgICAgICBmb3IgZmlsZSBpbiBzYW1wbGVfZmlsZXM6ICN0b2RvOiBjaGFuZ2UgdGhpcyB0byBnbG9iIG9yIHNvbWV0aGluZyBiZXR0ZXIsIGxpa2UgYSBkaWN0CiAgICAgICAgICAgIGlmIGlkXyBpbiBmaWxlOgogICAgICAgICAgICAgICAgYnJlYWsgIyBJZiBpdCBmb3VuZCB0aGUgZmlsZSwgZ29lcyBvdXQsIGFuZCB0aGUgZmlsZSB2YXIgcmVtYWlucwogICAgICAgIGVsc2U6ICMgaW4gY2FzZSBpdCBjb21wbGV0ZXMgdGhlIGxvb3Agc3VjY2VzZnVsbHksIHJhaXNlIGV4Y2VwdGlvbgogICAgICAgICAgICByYWlzZSBFeGNlcHRpb24oJ0NvdWxkIG5vdCBmaW5kIHRoZSBmaWxlIHRvIGxpbmsgdG8nKQoKICAgICAgICAjbGluayA9IHBmLkxpbmsoaWRfLCB1cmw9ZidmaWxlOntmaWxlfScpCiAgICAgICAgbGluayA9IHBmLkxpbmsocGYuU3RyKGlkXyksIHVybD1maWxlKQogICAgICAgIHJldHVybiBsaW5rCgpkb2N1bWVudC53YWxrKGNvbnZlcnRfbGluaykKCgoK</text>
+        <text encoding="base64">ZmlnLCBbYXhULCBheFQyXSA9IHBsdC5zdWJwbG90cyhucm93cz0yLCBuY29scz0xLCBmaWdzaXplPSgxMiwgMTIpKQpheFQucGxvdCh0aW1lcywgbm9pc3lfZGF0YSwgYz0naycpCmF4VC5wbG90KHRpbWVzLCBpbHQudW5pbnZlcnRlZF9ZX3NjYWxlZCwgYz0ncicpCmF4VDIucGxvdChpbHQub3V0cHV0X1gsIGlsdC5vdXRwdXRfWSwgbGFiZWw9Zid7aWx0LmFscGhhOi4yZn0nKQpheFQyLnNldCh4c2NhbGU9J2xvZycpCmF4VDIubGVnZW5kKCkKcGx0LnNob3coKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXR0cmlidXRlcyAoTGlzdFtzdHJdLCBvcHRpb25hbCk6IFRoZSBhdHRyaWJ1dGVzIG9mIHRoZSBTdGF0cyBjbGFzcyB0aGF0IHdpbGwgYmUgcGxvdHRlZAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGF0dHJpYnV0ZXM6IExpc3Rbc3RyXSA9IFsid29yZF9jb3VudCIsICJ1bmlxdWVfd29yZF9jb3VudCJdLAo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlcG8uZ2l0LmNoZWNrb3V0KHN0YXJ0aW5nX3NoYSkK</text>
+      <register name="2" type="4">
+        <text>self.alpha = alpha_range[len(alpha_range) // 2]
+            self.output_y = solutions(self.a</text>
       </register>
-      <register name="5" type="4">
-        <text>(
-    thesis_path,
-    stats_basepath,
-    compiled_pdfs_path,
-    pdf_pages_path,
-    collated_pdfs_path,
-)</text>
+      <register name="3" type="4">
+        <text>self.alpha = alpha_range[len(alpha_range) // 2]
+            self.output_y = solutions(self.alp</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwZi5kZWJ1ZygnSGVyZSEnKQo=</text>
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwZi5kZWJ1ZyhlbGVtLnRleHQpCg==</text>
+        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBmLmRlYnVnKCdIZXJlIScpCg==</text>
+        <text encoding="base64">bnVtX2FscGhzZXQgaGlnaGxpZ2h0ZWR5YW5rYQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaAojIS91c3IvYmluL2VudiBiYXNoCg==</text>
+        <text encoding="base64">bnVtX2FscGhzZXQgaGlnaGxpZ2h0ZWR5YW5rYQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -252,53 +350,17 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>attributes</last-search>
+      <last-search>kernel</last-search>
       <last-offset />
-      <last-pattern>attributes</last-pattern>
-      <last-replace />
-      <last-substitute>'</last-substitute>
+      <last-pattern>kernel</last-pattern>
+      <last-replace>self.l2</last-replace>
+      <last-substitute>line2</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
-    <state version="5" enabled="true" />
-    <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed A</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed C</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed V</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed R</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed Q</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed BACK_SLASH</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed W</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed 2</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed P</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed O</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed S</text>
-      </shortcut-conflict>
-    </shortcut-conflicts>
-    <editor />
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
