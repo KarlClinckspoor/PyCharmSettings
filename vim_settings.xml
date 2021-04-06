@@ -165,11 +165,12 @@
         <mark key="." line="29" column="12" />
         <mark key="^" line="27" column="14" />
       </file>
-      <file name="$USER_HOME$/Desktop/LABORE/labore/inversion_2d.py" timestamp="1617740291065">
-        <mark key="[" line="17" column="10" />
-        <mark key="]" line="17" column="10" />
-        <mark key="^" line="17" column="10" />
-        <mark key="." line="17" column="9" />
+      <file name="$USER_HOME$/Desktop/LABORE/labore/inversion_2d.py" timestamp="1617741409086">
+        <mark key="'" line="27" column="29" />
+        <mark key="[" line="28" column="45" />
+        <mark key="]" line="28" column="46" />
+        <mark key="." line="28" column="46" />
+        <mark key="^" line="33" column="87" />
       </file>
       <file name="/test_GCV_class" timestamp="1616176545763">
         <mark key="[" line="0" column="0" />
@@ -194,8 +195,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="19" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/ui_files/crop_contin.py" />
-      <jump line="320" column="8" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/helper/crop_contin_gui.py" />
       <jump line="8" column="22" filename="$USER_HOME$/PycharmProjects/untitled1/teste.py" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/untitled1/teste.py" />
       <jump line="44" column="0" filename="$USER_HOME$/PycharmProjects/untitled1/teste.py" />
@@ -294,55 +293,57 @@
       <jump line="34" column="0" filename="$USER_HOME$/Desktop/LABORE/labore/models.py" />
       <jump line="29" column="0" filename="$USER_HOME$/Desktop/LABORE/labore/models.py" />
       <jump line="20" column="0" filename="$USER_HOME$/Desktop/LABORE/labore/models.py" />
+      <jump line="14" column="19" filename="$USER_HOME$/Desktop/LABORE/labore/inversion_2d.py" />
+      <jump line="26" column="29" filename="$USER_HOME$/Desktop/LABORE/labore/inversion_2d.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">aW1wb3J0IHBhbmZsdXRlIGFzIHBmCgptZCA9ICdTb21lIG1hcmtkb3duIFtbMjAyMF8wNV8xMF8xMi01Ny0wOV1dIHdpa2lsaW5rIHRvIGNvbnZlcnQnCnBmLmNvbnZlcnRfdGV4dChtZCwgaW5wdXRfZm9ybWF0PSdtYXJrZG93bicpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGFuZCBmaXQgb3B0aW9ucw==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>kernel</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZmlnLCBbYXhULCBheFQyXSA9IHBsdC5zdWJwbG90cyhucm93cz0yLCBuY29scz0xLCBmaWdzaXplPSgxMiwgMTIpKQpheFQucGxvdCh0aW1lcywgbm9pc3lfZGF0YSwgYz0naycpCmF4VC5wbG90KHRpbWVzLCBpbHQudW5pbnZlcnRlZF9ZX3NjYWxlZCwgYz0ncicpCmF4VDIucGxvdChpbHQub3V0cHV0X1gsIGlsdC5vdXRwdXRfWSwgbGFiZWw9Zid7aWx0LmFscGhhOi4yZn0nKQpheFQyLnNldCh4c2NhbGU9J2xvZycpCmF4VDIubGVnZW5kKCkKcGx0LnNob3coKQo=</text>
+        <text encoding="base64">ICAgICAgICBzdGQxID0gbnAuc3VtKG5wLnN1bSgoc2VsZi56WzosIDMqaV0gLSAyICogc2VsZi56WzosIDMqKGkrMSldICsgc2VsZi56WzosIDMqaSsyXSkgKiogMikgICkKICAgICAgICBzdGQxID0gbnAuc3FydCgxIC8gKDYgKiBrICogbGVuKHNlbGYueCkpKSAqIHN0ZDEK</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIFRoZSBvCiAgICAKICAgIDEuIHg6IFRoZSB2YWx1ZXMK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIEsxOiBucC5uZGFycmF5Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="8">
+      <register name="5" type="8">
         <text>%
 %
 %</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="4">
-        <text>self.alpha = alpha_range[len(alpha_range) // 2]
-            self.output_y = solutions(self.a</text>
-      </register>
-      <register name="5" type="4">
-        <text>self.alpha = alpha_range[len(alpha_range) // 2]
-            self.output_y = solutions(self.alp</text>
-      </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>self.alpha = alpha_range[len(alpha_range) // 2]
+            self.output_y = solutions(self.a</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CgoK</text>
+      <register name="8" type="4">
+        <text>self.alpha = alpha_range[len(alpha_range) // 2]
+            self.output_y = solutions(self.alp</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
