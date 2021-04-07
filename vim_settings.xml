@@ -89,26 +89,23 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="21" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1617744052294">
+      <file name="/Dummy.txt" timestamp="1617799246710">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1616176462015">
+      <file name="/Python Console" timestamp="1617801089380">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="2" />
+        <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="2" />
-        <mark key="." line="0" column="2" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/LABORE/tests/test_inputclass.py" timestamp="1617744038473">
-        <mark key="'" line="4" column="10" />
-        <mark key="[" line="16" column="30" />
-        <mark key="]" line="25" column="20" />
-        <mark key="." line="25" column="20" />
-        <mark key="^" line="25" column="20" />
-      </file>
-      <file name="/tikhonov_test" timestamp="1615569157477">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Desktop/LABORE/tests/test_inputclass.py" timestamp="1617801508728">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="70" column="64" />
+        <mark key="." line="77" column="56" />
+        <mark key="^" line="77" column="57" />
       </file>
       <file name="/a.dummy" timestamp="1616164986683">
         <mark key="[" line="0" column="1" />
@@ -130,13 +127,6 @@
         <mark key="." line="209" column="38" />
         <mark key="^" line="209" column="39" />
       </file>
-      <file name="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/tests/test_inversion.py" timestamp="1615569148001">
-        <mark key="'" line="0" column="27" />
-        <mark key="[" line="44" column="56" />
-        <mark key="]" line="31" column="31" />
-        <mark key="." line="31" column="31" />
-        <mark key="^" line="31" column="27" />
-      </file>
       <file name="$USER_HOME$/.ideavimrc" timestamp="1616173382663">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="10" column="0" />
@@ -151,10 +141,16 @@
         <mark key="^" line="210" column="29" />
         <mark key="." line="210" column="28" />
       </file>
+      <file name="/scratch_8" timestamp="1617796621084">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/LABORE/labore/models.py" timestamp="1616176881487">
         <mark key="'" line="20" column="0" />
       </file>
-      <file name="/test input class" timestamp="1617744223270">
+      <file name="/test input class" timestamp="1617799844878">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.py" timestamp="1617796601815">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/tests/test_GCV.py" timestamp="1616163658683">
@@ -164,12 +160,12 @@
         <mark key="." line="29" column="12" />
         <mark key="^" line="27" column="14" />
       </file>
-      <file name="$USER_HOME$/Desktop/LABORE/labore/inversion_2d.py" timestamp="1617743421075">
-        <mark key="'" line="39" column="49" />
-        <mark key="[" line="74" column="6" />
-        <mark key="]" line="74" column="60" />
-        <mark key="^" line="74" column="60" />
-        <mark key="." line="74" column="59" />
+      <file name="$USER_HOME$/Desktop/LABORE/labore/inversion_2d.py" timestamp="1617801713606">
+        <mark key="'" line="155" column="8" />
+        <mark key="[" line="160" column="0" />
+        <mark key="]" line="160" column="68" />
+        <mark key="." line="160" column="0" />
+        <mark key="^" line="160" column="55" />
       </file>
       <file name="/test_GCV_class" timestamp="1616176545763">
         <mark key="[" line="0" column="0" />
@@ -194,20 +190,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="27" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/tests/test_inversion.py" />
-      <jump line="234" column="20" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
-      <jump line="317" column="0" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
-      <jump line="346" column="24" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
-      <jump line="267" column="7" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
-      <jump line="237" column="20" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
-      <jump line="235" column="12" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
-      <jump line="24" column="20" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/tests/test_GCV.py" />
-      <jump line="282" column="17" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
-      <jump line="22" column="19" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/tests/test_GCV.py" />
-      <jump line="311" column="67" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
-      <jump line="28" column="79" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/tests/test_GCV.py" />
-      <jump line="37" column="0" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/tests/test_GCV.py" />
-      <jump line="52" column="30" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/tests/test_GCV.py" />
       <jump line="53" column="6" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/tests/test_GCV.py" />
       <jump line="26" column="0" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/tests/test_GCV.py" />
       <jump line="55" column="0" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/tests/test_GCV.py" />
@@ -294,51 +276,66 @@
       <jump line="39" column="49" filename="$USER_HOME$/Desktop/LABORE/labore/inversion_2d.py" />
       <jump line="16" column="26" filename="$USER_HOME$/Desktop/LABORE/tests/test_inputclass.py" />
       <jump line="4" column="10" filename="$USER_HOME$/Desktop/LABORE/tests/test_inputclass.py" />
+      <jump line="53" column="20" filename="$USER_HOME$/Desktop/LABORE/tests/test_inputclass.py" />
+      <jump line="56" column="13" filename="$USER_HOME$/Desktop/LABORE/tests/test_inputclass.py" />
+      <jump line="57" column="0" filename="$USER_HOME$/Desktop/LABORE/tests/test_inputclass.py" />
+      <jump line="0" column="0" filename="/test input class" />
+      <jump line="23" column="0" filename="$USER_HOME$/Desktop/LABORE/labore/inversion_2d.py" />
+      <jump line="28" column="0" filename="$USER_HOME$/Desktop/LABORE/labore/inversion_2d.py" />
+      <jump line="34" column="0" filename="$USER_HOME$/Desktop/LABORE/labore/inversion_2d.py" />
+      <jump line="67" column="84" filename="$USER_HOME$/Desktop/LABORE/tests/test_inputclass.py" />
+      <jump line="80" column="35" filename="$USER_HOME$/Desktop/LABORE/labore/inversion_2d.py" />
+      <jump line="88" column="17" filename="$USER_HOME$/Desktop/LABORE/labore/inversion_2d.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/Desktop/LABORE/tests/test_inputclass.py" />
+      <jump line="120" column="16" filename="$USER_HOME$/Desktop/LABORE/labore/inversion_2d.py" />
+      <jump line="141" column="17" filename="$USER_HOME$/Desktop/LABORE/labore/inversion_2d.py" />
+      <jump line="155" column="8" filename="$USER_HOME$/Desktop/LABORE/labore/inversion_2d.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRhdGFfc3RydWN0dXJlID0gTk1SMkRJbnB1dERhdGEodGF1MXMsIHRhdTJzLCBTX25vaXNlLCBzdGQ9Tm9uZSkK</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">aW1wb3J0IHBhbmZsdXRlIGFzIHBmCgptZCA9ICdTb21lIG1hcmtkb3duIFtbMjAyMF8wNV8xMF8xMi01Ny0wOV1dIHdpa2lsaW5rIHRvIGNvbnZlcnQnCnBmLmNvbnZlcnRfdGV4dChtZCwgaW5wdXRfZm9ybWF0PSdtYXJrZG93bicpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJdFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>x</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBmaWcsIGF4ID0gcGx0LnN1YnBsb3RzKHN1YnBsb3Rfa3c9eyJwcm9qZWN0aW9uIjogIjNkIn0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVmIGtlcm4xKHQxLCB4KToKICAgIHJldHVybiAxIC0gMiAqIG5wLmV4cCgtdDEveCkKCmRlZiBrZXJuMih0MiwgeSk6CiAgICByZXR1cm4gbnAuZXhwKC10MiAvIHkpCg==</text>
+        <text encoding="base64">ICAgIGRhdGFfc3RydWN0dXJlID0gTk1SMkRJbnB1dERhdGEodGF1MXMsIHRhdTJzLCBTX25vaXNlLCBzdGQ9Tm9uZSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICBrZXJuKQo=</text>
+        <text encoding="base64">ICAgICAgICBTWCwgU1kgPSBucC5tZXNoZ3JpZCh0YXUycywgdGF1MXMpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaWcsIGF4ID0gcGx0LnN1YnBsb3RzKHN1YnBsb3Rfa3c9eyJwcm9qZWN0aW9uIjogIjNkIn0pCiAgICAgICAgcGx0LnNob3coKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBUaGVzZSAK</text>
+        <text encoding="base64">ICAgIHg6IG5wLm5kYXJyYXkgICMgVGhlIHJhbmdlIG9mIHZhbHVlcyBjb25zaWRlcmVkIGZvciB0aGUgZmlyc3QgZGVjYXkKICAgIHk6IG5wLm5kYXJyYXkgICMgVGhlIHJhbmdlIG9mIHZhbHVlcyBjb25zaWRlcmVkIGZvciB0aGUgc2Vjb25kIGRlY2F5CiAgICBLOiBucC5uZGFycmF5ICAjIHRoZSBjb21iaW5lZCBrZXJuZWwgZnVuY3Rpb25zLAogICAgZjogbnAubmRhcnJheSAgIyBUaGUgc3BlY3RydW0gaW4gdGhlIHRyYW5zZm9ybWVkIHNwYWNlLCBbTnhNXQogICAgRjogbnAubmRhcnJheSAgIyBUaGUgc3BlY3RydW0gaW4gdGhlIGNvbXByZXNzZWQgZG9tYWluCgo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYuc3RkCg==</text>
+      <register name="5" type="4">
+        <text>used during the inversion, from the kernels K1 (shape N x t1) and K2 (shape N x t2), the
+    range of possible values for the decay constants.</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB0YXUyOiBucC5uZGFycmF5ICAjIFRoZSByYW5nZSBvZiBwb3NzaWJsZSB2YWx1ZXMgZm9yIHRoZSBzZWNvbmQgZGVjYXkKICAgICAgICBkYXRhcGVyYzogZmxvYXQgPSAwLjAxICAjIFBlcmNlbnRhZ2UKICAgICAgICB2ZXJib3NlOiBib29sID0gRmFsc2UKICAgICAgICBuX2FscGhhczogaW50ID0gMTAKICAgICAgICBhbHBoYTogZmxvYXQgPSA1CiAgICAgICAgYWxwaGFfY29udjogZmxvYXQgPSAwLjAwMQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICMgSzE6IG5wLm5kYXJyYXkgICMgRmlyc3QgS2VybmVsLCBzaGFwZSBbCiAgICAjIEsyOiBucC5uZGFycmF5ICAjIFNlY29uZCBrZXJuZWwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFRoZSBvCiAgICAKICAgIDEuIHg6IFRoZSB2YWx1ZXMK</text>
+        <text encoding="base64">ICAgICAgICAiIiIiIiIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
