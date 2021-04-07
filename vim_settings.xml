@@ -15,6 +15,8 @@
         <entry>line2</entry>
         <entry>'</entry>
         <entry>kernel</entry>
+        <entry encoding="base64">XDxpbnRcPg==</entry>
+        <entry encoding="base64">XDxJdFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3Jlc2V0L21vcmVfcmlnaHQ=</entry>
@@ -87,7 +89,7 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="21" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1616175786612">
+      <file name="/Dummy.txt" timestamp="1617744052294">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -97,6 +99,13 @@
         <mark key="]" line="0" column="2" />
         <mark key="^" line="0" column="2" />
         <mark key="." line="0" column="2" />
+      </file>
+      <file name="$USER_HOME$/Desktop/LABORE/tests/test_inputclass.py" timestamp="1617744038473">
+        <mark key="'" line="4" column="10" />
+        <mark key="[" line="16" column="30" />
+        <mark key="]" line="25" column="20" />
+        <mark key="." line="25" column="20" />
+        <mark key="^" line="25" column="20" />
       </file>
       <file name="/tikhonov_test" timestamp="1615569157477">
         <mark key="[" line="0" column="0" />
@@ -113,12 +122,6 @@
         <mark key="]" line="51" column="12" />
         <mark key="." line="51" column="11" />
         <mark key="^" line="51" column="12" />
-      </file>
-      <file name="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/.gitignore" timestamp="1615554331105">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="4" />
-        <mark key="." line="3" column="4" />
-        <mark key="^" line="3" column="4" />
       </file>
       <file name="$USER_HOME$/Desktop/LABORE/labore/inversion_class.py" timestamp="1616176870392">
         <mark key="'" line="320" column="4" />
@@ -151,12 +154,8 @@
       <file name="$USER_HOME$/Desktop/LABORE/labore/models.py" timestamp="1616176881487">
         <mark key="'" line="20" column="0" />
       </file>
-      <file name="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/helper/crop_contin_gui.py" timestamp="1615554152329">
-        <mark key="'" line="322" column="8" />
-        <mark key="[" line="322" column="16" />
-        <mark key="]" line="322" column="38" />
-        <mark key="^" line="322" column="38" />
-        <mark key="." line="322" column="38" />
+      <file name="/test input class" timestamp="1617744223270">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/tests/test_GCV.py" timestamp="1616163658683">
         <mark key="'" line="55" column="0" />
@@ -165,12 +164,12 @@
         <mark key="." line="29" column="12" />
         <mark key="^" line="27" column="14" />
       </file>
-      <file name="$USER_HOME$/Desktop/LABORE/labore/inversion_2d.py" timestamp="1617741409086">
-        <mark key="'" line="27" column="29" />
-        <mark key="[" line="28" column="45" />
-        <mark key="]" line="28" column="46" />
-        <mark key="." line="28" column="46" />
-        <mark key="^" line="33" column="87" />
+      <file name="$USER_HOME$/Desktop/LABORE/labore/inversion_2d.py" timestamp="1617743421075">
+        <mark key="'" line="39" column="49" />
+        <mark key="[" line="74" column="6" />
+        <mark key="]" line="74" column="60" />
+        <mark key="^" line="74" column="60" />
+        <mark key="." line="74" column="59" />
       </file>
       <file name="/test_GCV_class" timestamp="1616176545763">
         <mark key="[" line="0" column="0" />
@@ -195,12 +194,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="22" filename="$USER_HOME$/PycharmProjects/untitled1/teste.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/untitled1/teste.py" />
-      <jump line="44" column="0" filename="$USER_HOME$/PycharmProjects/untitled1/teste.py" />
-      <jump line="202" column="43" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
-      <jump line="300" column="7" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
-      <jump line="9" column="11" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
       <jump line="0" column="27" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/tests/test_inversion.py" />
       <jump line="234" column="20" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
       <jump line="317" column="0" filename="G:/My Drive/Researcher4_Petrobras-Karl (Jun2019-Atual)/Scripts and programs/LABORE/labore/inversion.py" />
@@ -295,55 +288,57 @@
       <jump line="20" column="0" filename="$USER_HOME$/Desktop/LABORE/labore/models.py" />
       <jump line="14" column="19" filename="$USER_HOME$/Desktop/LABORE/labore/inversion_2d.py" />
       <jump line="26" column="29" filename="$USER_HOME$/Desktop/LABORE/labore/inversion_2d.py" />
+      <jump line="32" column="12" filename="$USER_HOME$/Desktop/LABORE/labore/inversion_2d.py" />
+      <jump line="37" column="0" filename="$USER_HOME$/Desktop/LABORE/labore/inversion_2d.py" />
+      <jump line="43" column="0" filename="$USER_HOME$/Desktop/LABORE/labore/inversion_2d.py" />
+      <jump line="39" column="49" filename="$USER_HOME$/Desktop/LABORE/labore/inversion_2d.py" />
+      <jump line="16" column="26" filename="$USER_HOME$/Desktop/LABORE/tests/test_inputclass.py" />
+      <jump line="4" column="10" filename="$USER_HOME$/Desktop/LABORE/tests/test_inputclass.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>s</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">aW1wb3J0IHBhbmZsdXRlIGFzIHBmCgptZCA9ICdTb21lIG1hcmtkb3duIFtbMjAyMF8wNV8xMF8xMi01Ny0wOV1dIHdpa2lsaW5rIHRvIGNvbnZlcnQnCnBmLmNvbnZlcnRfdGV4dChtZCwgaW5wdXRfZm9ybWF0PSdtYXJrZG93bicpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>kernel</text>
+        <text encoding="base64">XDxJdFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzdGQxID0gbnAuc3VtKG5wLnN1bSgoc2VsZi56WzosIDMqaV0gLSAyICogc2VsZi56WzosIDMqKGkrMSldICsgc2VsZi56WzosIDMqaSsyXSkgKiogMikgICkKICAgICAgICBzdGQxID0gbnAuc3FydCgxIC8gKDYgKiBrICogbGVuKHNlbGYueCkpKSAqIHN0ZDEK</text>
+      <register name="0" type="4">
+        <text>x</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZGVmIGtlcm4xKHQxLCB4KToKICAgIHJldHVybiAxIC0gMiAqIG5wLmV4cCgtdDEveCkKCmRlZiBrZXJuMih0MiwgeSk6CiAgICByZXR1cm4gbnAuZXhwKC10MiAvIHkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFRoZSBvCiAgICAKICAgIDEuIHg6IFRoZSB2YWx1ZXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBrZXJuKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEsxOiBucC5uZGFycmF5Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBUaGVzZSAK</text>
       </register>
-      <register name="5" type="8">
-        <text>%
-%
-%</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYuc3RkCg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>self.alpha = alpha_range[len(alpha_range) // 2]
-            self.output_y = solutions(self.a</text>
-      </register>
-      <register name="8" type="4">
-        <text>self.alpha = alpha_range[len(alpha_range) // 2]
-            self.output_y = solutions(self.alp</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFRoZSBvCiAgICAKICAgIDEuIHg6IFRoZSB2YWx1ZXMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -352,12 +347,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>kernel</last-search>
+      <last-search encoding="base64">XDxJdFw+</last-search>
       <last-offset />
-      <last-pattern>kernel</last-pattern>
+      <last-pattern encoding="base64">XDxJdFw+</last-pattern>
       <last-replace>self.l2</last-replace>
       <last-substitute>line2</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
