@@ -1,0 +1,5 @@
+<application>
+  <component name="PyEnvPlugin">
+    <option name="pathToPyenv" value="//wsl$/Ubuntu/home/karl/.pyenv/bin/pyenv" />
+  </component>
+</application>
