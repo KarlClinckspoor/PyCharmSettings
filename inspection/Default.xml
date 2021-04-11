@@ -39,6 +39,7 @@
         <option value="PyQt5.QtWidgets.clicked.connect" />
         <option value="main.Create" />
         <option value="test_pycharm.Create" />
+        <option value="hershel_bulkley.Create" />
       </list>
     </option>
   </inspection_tool>
