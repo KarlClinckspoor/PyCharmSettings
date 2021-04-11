@@ -1,8 +1,8 @@
 <toolSet name="External Tools">
-  <tool name="Black" description="Black is the uncompromising Python code formatter" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="Black" description="Black is the uncompromising Python code formatter" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="wsl" />
-      <option name="PARAMETERS" value="--exec /bin/sh -c &quot;cd /home/karl/rheology_anims &amp;&amp; /home/karl/.pyenv/versions/3.8.8/envs/manimCE/bin/python3.8 -m black $FileRelativePath$&quot;" />
+      <option name="PARAMETERS" value="--exec /bin/sh -c &quot;/home/karl/.pyenv/versions/3.8.8/envs/manimCE/bin/python3.8 -m black $FileRelativePath$&quot;" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
