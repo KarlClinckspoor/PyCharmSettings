@@ -1,0 +1,11 @@
+<application>
+  <component name="PluginPropertiesComponent">
+    <option name="daySchemeName" value="_@user_Visual Studio Code Dark Plus" />
+    <option name="dayStartTime" value="450" />
+    <option name="dayThemeName" value="Windows 10 Light" />
+    <option name="enabled" value="true" />
+    <option name="nightSchemeName" value="_@user_Visual Studio Code Dark Plus" />
+    <option name="nightStartTime" value="1080" />
+    <option name="nightThemeName" value="Visual Studio Code Dark Plus" />
+  </component>
+</application>
